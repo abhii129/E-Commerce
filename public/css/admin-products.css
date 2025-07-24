@@ -1,0 +1,140 @@
+/* Admin Products Page Styling */
+.admin-products-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.admin-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+.admin-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #1a202c;
+}
+
+.welcome-message {
+    font-size: 0.875rem;
+    color: #4a5568;
+    font-style: italic;
+}
+
+.add-product-btn {
+    background-color: #4299e1;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 0.375rem;
+    font-weight: 500;
+    transition: all 0.2s ease;
+    text-decoration: none;
+}
+
+.add-product-btn:hover {
+    background-color: #3182ce;
+    transform: translateY(-1px);
+}
+
+.products-table {
+    width: 100%;
+    background-color: white;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.products-table th {
+    background-color: #f7fafc;
+    padding: 0.75rem 1rem;
+    text-align: left;
+    font-weight: 600;
+    color: #4a5568;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    letter-spacing: 0.05em;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+.products-table td {
+    padding: 1rem;
+    border-bottom: 1px solid #edf2f7;
+    color: #2d3748;
+}
+
+.products-table tr:last-child td {
+    border-bottom: none;
+}
+
+.products-table tr:hover td {
+    background-color: #f8fafc;
+}
+
+.product-image {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 0.25rem;
+    border: 1px solid #e2e8f0;
+}
+
+.action-link {
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    font-weight: 500;
+    transition: all 0.2s ease;
+    text-decoration: none;
+    margin-right: 0.5rem;
+}
+
+.edit-link {
+    color: #4299e1;
+}
+
+.edit-link:hover {
+    color: #3182ce;
+    text-decoration: underline;
+}
+
+.delete-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #e53e3e;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    font-weight: 500;
+}
+
+.delete-btn:hover {
+    color: #c53030;
+    text-decoration: underline;
+}
+
+.view-link {
+    color: #38a169;
+}
+
+.view-link:hover {
+    color: #2f855a;
+    text-decoration: underline;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .admin-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+    }
+    
+    .products-table {
+        display: block;
+        overflow-x: auto;
+    }
+}

@@ -8,11 +8,15 @@ use App\Http\Controllers\ProductController;
 use App\Http\Controllers\AdminController;
 use App\Http\Controllers\AdminCategoryController;
 use App\Http\Controllers\Category;
+use App\Http\Controllers\CustomerController;
+use App\Http\Controllers\AuthenticatedSessionController;
+use App\Http\Controllers\FooterMessageController;
+
+
 
 // Home route
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', [CustomerController::class, 'index'])->name('customer.products.index'); // Correct route for customer product details page
+
 
 // Dashboard route for authenticated users
 Route::get('/dashboard', function () {
@@ -48,12 +52,31 @@ Route::middleware(['auth', 'is_admin'])->group(function () {
 
 
     // Product Routes
-    Route::get('/products/create', [ProductController::class, 'create'])->name('products.create');
-    Route::post('/products', [ProductController::class, 'store'])->name('products.store');
-    Route::get('/products', [ProductController::class, 'index'])->name('products.index');
-    Route::get('/products/{product}/edit', [ProductController::class, 'edit'])->name('products.edit');
-    Route::put('/products/{product}', [ProductController::class, 'update'])->name('products.update');
-    Route::delete('/products/{product}', [ProductController::class, 'destroy'])->name('products.destroy');
+        // Admin routes for categories, subcategories, and products management
+        Route::get('/products', [ProductController::class, 'index'])->name('products.index');
+        Route::get('/products/create', [ProductController::class, 'create'])->name('products.create');
+        Route::post('/products', [ProductController::class, 'store'])->name('products.store');
+        Route::get('/products/{product}/edit', [ProductController::class, 'edit'])->name('products.edit');
+        Route::put('/products/{product}', [ProductController::class, 'update'])->name('products.update');
+        Route::delete('/products/{product}', [ProductController::class, 'destroy'])->name('products.destroy');
+
+    });
+
+    // Customer Routes
+    Route::get('/customer/products', [CustomerController::class, 'index'])->name('customer.products.index'); // Correct route for customer products listing page
+    Route::get('/customer/products/{id}', [CustomerController::class, 'show'])->name('customer.products.show'); // Correct route for customer product details page
+    
+    
+    Route::middleware(['auth'])->group(function () {
+        Route::get('/admin', function () {
+        return view('admin.dashboard');
+            });
+        });
+
+        //Footer
+    Route::get('admin/footer-messages/{section}/edit', [FooterMessageController::class, 'edit'])->name('admin.footer-messages.edit');
+    Route::put('admin/footer-messages/{section}', [FooterMessageController::class, 'update'])->name('admin.footer-messages.update');
+    Route::get('footer/{section}', [FooterMessageController::class, 'showFooterMessage'])->name('customer.footer');
 
 
-});
+   

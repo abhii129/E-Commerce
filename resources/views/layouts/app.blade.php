@@ -21,7 +21,6 @@
                 <nav>
                     <ul>
                         <li><a href="{{ route('products.create') }}">Create Product</a></li>
-                        <li><a href="{{ route('dashboard') }}">Admin Dashboard</a></li>
                     </ul>
                 </nav>
             @else
