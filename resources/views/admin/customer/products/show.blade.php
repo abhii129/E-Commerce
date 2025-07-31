@@ -6,31 +6,39 @@
     <title>{{ $product->name }} | Product Details</title>
     <link href="{{ asset('css/product-show.css') }}" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
-    <style>
-        body {
-            font-family: 'Open Sans', sans-serif;
-            background-color: #f5f7fa;
-            color: #333;
-            line-height: 1.6;
-        }
-    </style>
+   
 </head>
 <body>
-    <div class="container">
-        <h2 class="page-title">{{ $product->name }}</h2>
-
-        <div class="product-details">
-            <img src="{{ asset('storage/' . $product->image) }}" alt="{{ $product->name }}" class="product-image">
-            <div class="product-info">
-                <p>{{ $product->description }}</p>
-                <p><span class="price-tag">Price: €{{ number_format($product->price, 2) }}</span></p>
-                
-                <!-- Add to Cart Button -->
-                <button class="add-to-cart">
-                    Add to Cart
-                </button>
-            </div>
+    <x-navbar />
+        <div class="product-hero">
+        <i class="fas fa-cube"></i>
+        <div>
+            <div class="product-hero-title">{{ $product->name }}</div>
+            <div class="product-hero-desc">Full description, reviews, and buying options available below.</div>
         </div>
+        </div>
+
+
+    <div class="container">
+    <div class="product-card">
+  <div class="product-image-panel">
+    <!-- Optional badge if you have: -->
+    <!-- <span class="product-badge">New</span> -->
+    <img src="{{ asset('storage/' . $product->image) }}" alt="{{ $product->name }}" class="product-image">
+  </div>
+  <div class="product-info">
+    <p>{{ $product->description }}</p>
+    <span class="price-tag">Price: €{{ number_format($product->price, 2) }}</span>
+    <button class="add-to-cart">
+      <i class="fas fa-shopping-cart"></i> Add to Cart
+    </button>
+  </div>
+</div>
+
     </div>
+
+    <x-footer />
+
 </body>
 </html>
+

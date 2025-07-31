@@ -1,35 +1,22 @@
+<x-navbar />
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Products</title>
-    <link href="{{ asset('css/customer.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/customer-index.css') }}" rel="stylesheet">
     <!-- Add Font Awesome for icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
-    <!-- Navbar -->
-    <nav class="navbar">
-        <div class="navbar-container">
-            <a href="#" class="logo">E-CoM</a>
-            <div class="nav-links">
-                <a href="#">Home</a>
-                <a href="#">Products</a>
-                <a href="#">Categories</a>
-                <a href="#">About</a>
-                <a href="#">Contact</a>
-            </div>
-            <div class="nav-actions">
-                <a href="{{ route('login') }}" class="btn btn-primary">Login</a>
-                <a href="{{ route('register') }}" class="btn btn-primary">Sign Up</a>
-
-            </div>
-        </div>
-    </nav>
 
     <!-- Main Content -->
+
     <div class="container">
+
     <div class="products-banner">
+
     <h2 class="products-banner-title">
         <i class="fas fa-box-open"></i> Our Products
     </h2>

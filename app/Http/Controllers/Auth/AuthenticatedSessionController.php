@@ -28,7 +28,7 @@ class AuthenticatedSessionController extends Controller
 
         $request->session()->regenerate();
 
-        return redirect()->intended(route('dashboard', absolute: false));
+        return redirect()->intended(route('customer.products.index', absolute: false));
     }
 
     /**
@@ -44,4 +44,22 @@ class AuthenticatedSessionController extends Controller
 
         return redirect('/');
     }
+
+    // Customer
+
+    public function customer_create()
+    {
+        return view('auth.customer_login');
+    }
+
+    // app/Http/Controllers/Auth/AuthenticatedSessionController.php
+
+protected function authenticated(Request $request, $user)
+{
+    if ($user->role === 'admin') {
+        return redirect()->route('admin.dashboard');
+    }
+    return redirect()->route('products.create');
+}
+
 }

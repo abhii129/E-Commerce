@@ -12,37 +12,42 @@
             </button>
             <ul id="masterMenu" class="space-y-2 hidden pl-4">
                 
-
                 <!-- Customer Service Dropdown -->
                 <li>
-                    <button class="w-full text-left py-2 text-gray-700 hover:bg-gray-200" onclick="toggleDropdown('customerMenu')">Customer Service</button>
+                    <button class="w-full text-left py-2 text-gray-700 hover:bg-gray-200" onclick="toggleDropdown('customerMenu')">
+                        Customer Service
+                    </button>
                     <ul id="customerMenu" class="space-y-2 hidden pl-4">
-                        <li><a href="{{ route('admin.footer-messages.edit', ['section' => 'customer_service_contact_us']) }}" class="block py-2 text-gray-700 hover:bg-gray-200">Edit Contact Us Message</a></li>
-                        <li><a href="{{ route('admin.footer-messages.edit', ['section' => 'customer_service_faqs']) }}" class="block py-2 text-gray-700 hover:bg-gray-200">Edit FAQs Message</a></li>
-                        <li><a href="{{ route('admin.footer-messages.edit', ['section' => 'customer_service_shipping_policy']) }}" class="block py-2 text-gray-700 hover:bg-gray-200">Edit Shipping Policy Message</a></li>
-                        <li><a href="{{ route('admin.footer-messages.edit', ['section' => 'customer_service_returns_exchanges']) }}" class="block py-2 text-gray-700 hover:bg-gray-200">Edit Returns & Exchanges Message</a></li>
+                        <li><a href="{{ route('admin.footer.edit', ['section_key' => 'customer_service_contact_us']) }}" class="block py-2 text-gray-700 hover:bg-gray-200">Edit Contact Us</a></li>
+                        <li><a href="{{ route('admin.footer.edit', ['section_key' => 'customer_service_faqs']) }}" class="block py-2 text-gray-700 hover:bg-gray-200">Edit FAQs</a></li>
+                        <li><a href="{{ route('admin.footer.edit', ['section_key' => 'customer_service_shipping_policy']) }}" class="block py-2 text-gray-700 hover:bg-gray-200">Edit Shipping Policy</a></li>
+                        <li><a href="{{ route('admin.footer.edit', ['section_key' => 'customer_service_returns_exchanges']) }}" class="block py-2 text-gray-700 hover:bg-gray-200">Edit Returns & Exchanges</a></li>
                     </ul>
                 </li>
 
                 <!-- About Us Dropdown -->
                 <li>
-                    <button class="w-full text-left py-2 text-gray-700 hover:bg-gray-200" onclick="toggleDropdown('aboutUsMenu')">About Us</button>
+                    <button class="w-full text-left py-2 text-gray-700 hover:bg-gray-200" onclick="toggleDropdown('aboutUsMenu')">
+                        About Us
+                    </button>
                     <ul id="aboutUsMenu" class="space-y-2 hidden pl-4">
-                        <li><a href="{{ route('admin.footer-messages.edit', ['section' => 'about_us_our_story']) }}" class="block py-2 text-gray-700 hover:bg-gray-200">Edit Our Story Message</a></li>
-                        <li><a href="{{ route('admin.footer-messages.edit', ['section' => 'about_us_blog']) }}" class="block py-2 text-gray-700 hover:bg-gray-200">Edit Blog Message</a></li>
-                        <li><a href="{{ route('admin.footer-messages.edit', ['section' => 'about_us_careers']) }}" class="block py-2 text-gray-700 hover:bg-gray-200">Edit Careers Message</a></li>
-                        <li><a href="{{ route('admin.footer-messages.edit', ['section' => 'about_us_privacy_policy']) }}" class="block py-2 text-gray-700 hover:bg-gray-200">Edit Privacy Policy Message</a></li>
+                        <li><a href="{{ route('admin.footer.edit', ['section_key' => 'about_us_our_story']) }}" class="block py-2 text-gray-700 hover:bg-gray-200">Edit Our Story</a></li>
+                        <li><a href="{{ route('admin.footer.edit', ['section_key' => 'about_us_blog']) }}" class="block py-2 text-gray-700 hover:bg-gray-200">Edit Blog</a></li>
+                        <li><a href="{{ route('admin.footer.edit', ['section_key' => 'about_us_careers']) }}" class="block py-2 text-gray-700 hover:bg-gray-200">Edit Careers</a></li>
+                        <li><a href="{{ route('admin.footer.edit', ['section_key' => 'about_us_privacy_policy']) }}" class="block py-2 text-gray-700 hover:bg-gray-200">Edit Privacy Policy</a></li>
                     </ul>
                 </li>
-
+                
                 <!-- Connect With Us Dropdown -->
                 <li>
-                    <button class="w-full text-left py-2 text-gray-700 hover:bg-gray-200" onclick="toggleDropdown('connectMenu')">Connect With Us</button>
+                    <button class="w-full text-left py-2 text-gray-700 hover:bg-gray-200" onclick="toggleDropdown('connectMenu')">
+                        Connect With Us
+                    </button>
                     <ul id="connectMenu" class="space-y-2 hidden pl-4">
-                        <li><a href="{{ route('admin.footer-messages.edit', ['section' => 'connect_with_us_facebook']) }}" class="block py-2 text-gray-700 hover:bg-gray-200">Edit Facebook Message</a></li>
-                        <li><a href="{{ route('admin.footer-messages.edit', ['section' => 'connect_with_us_instagram']) }}" class="block py-2 text-gray-700 hover:bg-gray-200">Edit Instagram Message</a></li>
-                        <li><a href="{{ route('admin.footer-messages.edit', ['section' => 'connect_with_us_twitter']) }}" class="block py-2 text-gray-700 hover:bg-gray-200">Edit Twitter Message</a></li>
-                        <li><a href="{{ route('admin.footer-messages.edit', ['section' => 'connect_with_us_pinterest']) }}" class="block py-2 text-gray-700 hover:bg-gray-200">Edit Pinterest Message</a></li>
+                        <li><a href="{{ route('admin.footer.edit', ['section_key' => 'connect_with_us_facebook']) }}" class="block py-2 text-gray-700 hover:bg-gray-200">Edit Facebook</a></li>
+                        <li><a href="{{ route('admin.footer.edit', ['section_key' => 'connect_with_us_instagram']) }}" class="block py-2 text-gray-700 hover:bg-gray-200">Edit Instagram</a></li>
+                        <li><a href="{{ route('admin.footer.edit', ['section_key' => 'connect_with_us_twitter']) }}" class="block py-2 text-gray-700 hover:bg-gray-200">Edit Twitter</a></li>
+                        <li><a href="{{ route('admin.footer.edit', ['section_key' => 'connect_with_us_pinterest']) }}" class="block py-2 text-gray-700 hover:bg-gray-200">Edit Pinterest</a></li>
                     </ul>
                 </li>
             </ul>

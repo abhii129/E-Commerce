@@ -7,6 +7,7 @@ use Illuminate\Http\Request;
 use App\Models\FooterMessage;
 
 
+
 class CustomerController extends Controller
 {
     public function index()
@@ -39,12 +40,28 @@ class CustomerController extends Controller
         ]);
     }
 
-    public function show($id)
+    public function showFooterSection(string $section_key)
     {
-        // Find the product by ID and display the product details
-        $product = Product::findOrFail($id);
-        return view('admin.customer.products.show', compact('product'));
+        $section = \App\Models\FooterSection::where('section_key', $section_key)->first();
+        $data = $section?->data ?? [];
+    
+        // Pass the data to a front-end Blade view for rendering
+        return view('footer.sections.' . $section_key, [
+            'data' => $data,
+        ]);
     }
 
-    
+
+    public function show($id)
+{
+    // Find the product by ID with related category and subcategory
+    $product = Product::with('category', 'subcategory')->findOrFail($id);
+
+    // You can get additional data if needed, e.g., related products, breadcrumbs etc.
+
+    // Return a frontend view showing product details
+    return view('admin.customer.products.show', [ 'product' => $product ]);
+}
+
+   
 }

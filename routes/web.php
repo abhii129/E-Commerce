@@ -10,7 +10,7 @@ use App\Http\Controllers\AdminCategoryController;
 use App\Http\Controllers\Category;
 use App\Http\Controllers\CustomerController;
 use App\Http\Controllers\AuthenticatedSessionController;
-use App\Http\Controllers\FooterMessageController;
+use App\Http\Controllers\FooterSectionController;
 
 
 
@@ -66,6 +66,9 @@ Route::middleware(['auth', 'is_admin'])->group(function () {
     Route::get('/customer/products', [CustomerController::class, 'index'])->name('customer.products.index'); // Correct route for customer products listing page
     Route::get('/customer/products/{id}', [CustomerController::class, 'show'])->name('customer.products.show'); // Correct route for customer product details page
     
+    // In routes/web.php
+    Route::get('/customer/products/{id}', [CustomerController::class, 'show'])->name('customer.products.show');
+
     
     Route::middleware(['auth'])->group(function () {
         Route::get('/admin', function () {
@@ -74,9 +77,27 @@ Route::middleware(['auth', 'is_admin'])->group(function () {
         });
 
         //Footer
-    Route::get('admin/footer-messages/{section}/edit', [FooterMessageController::class, 'edit'])->name('admin.footer-messages.edit');
-    Route::put('admin/footer-messages/{section}', [FooterMessageController::class, 'update'])->name('admin.footer-messages.update');
-    Route::get('footer/{section}', [FooterMessageController::class, 'showFooterMessage'])->name('customer.footer');
+  
+
+    Route::get('/admin/footer/{section_key}/edit', [FooterSectionController::class, 'edit'])->name('footer.edit');
+    Route::post('/admin/footer/{section_key}/update', [FooterSectionController::class, 'update'])->name('footer.update');
+    
+
+Route::middleware(['auth', 'is_admin'])->group(function () {
+    // Edit footer sections form:
+    Route::get('/admin/footer/{section_key}/edit', [FooterSectionController::class, 'edit'])
+        ->name('admin.footer.edit');
+
+    // Update footer section submission:
+    Route::post('/admin/footer/{section_key}/update', [FooterSectionController::class, 'update'])
+        ->name('footer.update');
+});
 
 
-   
+Route::get('/footer/{section_key}', [CustomerController::class, 'showFooterSection'])
+    ->name('footer.show');
+
+
+    Route::get('/footer/{section}', [CustomerController::class, 'showFooterSection'])
+        ->name('customer.footer');
+    

@@ -1,49 +1,55 @@
 <?php
-
 namespace App\Models;
 
-// use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 
 class User extends Authenticatable
 {
-    /** @use HasFactory<\Database\Factories\UserFactory> */
     use HasFactory, Notifiable;
 
-    /**
-     * The attributes that are mass assignable.
-     *
-     * @var list<string>
-     */
     protected $fillable = [
+        'user_id',
         'name',
         'email',
+        'number',
+        'age',
+        'address',
+        'gender',
         'password',
         'role',
     ];
 
-    /**
-     * The attributes that should be hidden for serialization.
-     *
-     * @var list<string>
-     */
     protected $hidden = [
         'password',
         'remember_token',
     ];
 
-    /**
-     * Get the attributes that should be cast.
-     *
-     * @return array<string, string>
-     */
     protected function casts(): array
     {
         return [
             'email_verified_at' => 'datetime',
             'password' => 'hashed',
         ];
+    }
+
+    // Automatically generate user_id after create
+    protected static function booted()
+    {
+        static::created(function ($user) {
+            if (!$user->user_id) {
+                $first = strtolower(strtok($user->name, ' '));
+                $rand = rand(10000, 99999);
+                $candidate = $first . $rand;
+                // Ensure uniqueness
+                while (self::where('user_id', $candidate)->exists()) {
+                    $rand = rand(10000, 99999);
+                    $candidate = $first . $rand;
+                }
+                $user->user_id = $candidate;
+                $user->save();
+            }
+        });
     }
 }

@@ -24,7 +24,8 @@
                     </ul>
                 </nav>
             @else
-                <p>You are not an admin.</p>
+            
+
             @endif
         </header>
 

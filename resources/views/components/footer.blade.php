@@ -1,4 +1,6 @@
 <!-- Footer -->
+<link href="{{ asset('css/customer-index.css') }}" rel="stylesheet">
+
 <footer class="footer">
     <div class="footer-container">
         <div class="footer-column">
