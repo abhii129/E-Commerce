@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.awaytravel.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.awaytravel.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.awaytravel.com/collections/sale.atom"/>
+  <title>Away: Built for modern travel</title>
+  <updated>2025-06-04T13:04:21-04:00</updated>
+  <author>
+    <name>Away: Built for modern travel</name>
+  </author>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884934570168</id>
+    <published>2025-06-04T13:04:21-04:00</published>
+    <updated>2025-06-04T13:04:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/micro-everywhere-bag-jet-black"/>
+    <title>The Micro Everywhere Bag in Jet Black</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/32b79e2d-b843-4040-9211-c8917284d144_976dee06-d384-4bfb-9a00-43d011a5d586.jpg?v=1739239570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The smallest addition to our Everywhere Bag lineup, the Micro Everywhere Bag is designed to fit small items like earbuds and credit cards. Loop it onto your suitcase or bag, attach your keys to the metal clip, or use it as an accessory pouch.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ngf</s:tag>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884934570168</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>100552BLKV1Micro</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884877521080</id>
+    <published>2025-03-22T11:17:39-04:00</published>
+    <updated>2025-03-22T11:17:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/active-tote-45l-jet-black"/>
+    <title>Active Tote 45L in Jet Black</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_FAR_Tote_45L_Black_01_9354775d-1317-4b1c-9322-5791e5bfdc65.jpg?v=1739239968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made from a lightweight, high-strength polyester, this versatile 45L Tote packs a day's worth of travel essentials. A top cinch closure adjusts to how much you pack, while an exterior and interior pocket system organizes your phone, passport, and other valuables within reach.</p>
+<p>Made from 100% water repellent and abrasion-resistant Dual Action fabric, our Active Collection is designed to protect your belongings from the elements—whether you’re staying local or going off the grid.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ngf</s:tag>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884877521080</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>100069BLKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884930015416</id>
+    <published>2025-03-21T11:25:47-04:00</published>
+    <updated>2025-03-21T11:25:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/packable-sling-bag-cayenne"/>
+    <title>The Packable Sling Bag in Cayenne</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Packable_Sling_Orange_01new_f75925ad-502c-4c70-9d6e-d2917d3d4169.jpg?v=1736350655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Packable Sling Bag will hold your wallet, keys, sunscreen, snacks—basically, anything you need close at hand. With the option to pack it down into a compact zip pouch or expand it and wear it around your waist, this lightweight sling bag can easily be stored in any Away suitcase or bag for added versatility and mobility wherever your travels take you.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ngf</s:tag>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884930015416</id>
+      <title>Cayenne</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>100146RORV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884934963384</id>
+    <published>2025-03-11T18:26:08-04:00</published>
+    <updated>2025-03-11T18:26:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/micro-everywhere-bag-salt-white"/>
+    <title>The Micro Everywhere Bag in Salt White</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/149180a7-8e4b-44c2-9bb5-22e52f926c73_f5df2c73-0d68-4e52-9ab9-6f84ff779c30.jpg?v=1739239555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The smallest addition to our Everywhere Bag lineup, the Micro Everywhere Bag is designed to fit small items like earbuds and credit cards. Loop it onto your suitcase or bag, attach your keys to the metal clip, or use it as an accessory pouch.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ngf</s:tag>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884934963384</id>
+      <title>Salt White</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>100552BNV1Micro</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884929851576</id>
+    <published>2025-02-10T22:09:00-05:00</published>
+    <updated>2025-02-10T22:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/packable-sling-bag-teal"/>
+    <title>The Packable Sling Bag in Teal</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/57e63303-d065-4b15-bbfa-22d9517e47a4_42a45633-eef6-4e1b-8df5-fe5d9a2bfa74.jpg?v=1736350650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Packable Sling Bag will hold your wallet, keys, sunscreen, snacks—basically, anything you need close at hand. With the option to pack it down into a compact zip pouch or expand it and wear it around your waist, this lightweight sling bag can easily be stored in any Away suitcase or bag for added versatility and mobility wherever your travels take you.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ngf</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884929851576</id>
+      <title>Teal</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>100145TEALV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884929982648</id>
+    <published>2025-02-10T22:07:00-05:00</published>
+    <updated>2025-02-10T22:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/packable-sling-bag-navy-blue"/>
+    <title>The Packable Sling Bag in Navy Blue</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/3b9b6c6b-519e-4e66-b8d0-76055412a455_72002d65-391d-465e-bf31-f860925280a7.jpg?v=1736350654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Packable Sling Bag will hold your wallet, keys, sunscreen, snacks—basically, anything you need close at hand. With the option to pack it down into a compact zip pouch or expand it and wear it around your waist, this lightweight sling bag can easily be stored in any Away suitcase or bag for added versatility and mobility wherever your travels take you.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ngf</s:tag>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884929982648</id>
+      <title>Navy Blue</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>100145NVYV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884929884344</id>
+    <published>2025-02-10T22:06:00-05:00</published>
+    <updated>2025-02-10T22:06:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/packable-sling-bag-jet-black"/>
+    <title>The Packable Sling Bag in Jet Black</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/63e9045f-1871-402d-915f-250f6371e06a_dfa7143e-273f-4f4b-be0f-fce90e0b5a69.jpg?v=1736350653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Packable Sling Bag will hold your wallet, keys, sunscreen, snacks—basically, anything you need close at hand. With the option to pack it down into a compact zip pouch or expand it and wear it around your waist, this lightweight sling bag can easily be stored in any Away suitcase or bag for added versatility and mobility wherever your travels take you.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ngf</s:tag>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884929884344</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>100145BLKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884935880888</id>
+    <published>2025-02-08T11:31:00-05:00</published>
+    <updated>2025-02-08T11:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/everywhere-sling-bag-coast-blue"/>
+    <title>The Everywhere Sling Bag in Coast Blue</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/b687c174-8ee9-4533-8aab-a2b6d0257b6e_adbfa604-f780-4326-9bbc-2596e8da7f21.jpg?v=1739239532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Go hands-free with The Everywhere Sling Bag, designed for all your on-the-go essentials. It features two main compartments and two interior pockets, plus an easy access back pocket for your phone or passport—all while fitting comfortably across your body.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ngf</s:tag>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884935880888</id>
+      <title>Coast Blue</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>100462MBLUV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884878733496</id>
+    <published>2025-02-06T12:08:00-05:00</published>
+    <updated>2025-02-06T12:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/sleep-mask-navy-blue"/>
+    <title>The Sleep Mask in Navy Blue</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_TravelWell_SleepMask_Navy_02_82f6095e-86cc-40b9-b98d-4f13116bd97f.jpg?v=1739239944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            13.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Extra soft and super sleek, The Sleep Mask features a molded interior shape that gives your eyes plenty of room. It includes a hidden pocket for easy ear plug storage, and folds into itself for easy packing.</p>
+<p>Additionally, our fabric uses 37.5® thermoregulating technology to personalize climate control. If you get hot, 37.5 active particles help to cool you down. If you get cold, these same particles work to warm you up.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ngf</s:tag>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884878733496</id>
+      <title>Navy Blue</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>100045NVYV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884878700728</id>
+    <published>2025-02-06T12:07:00-05:00</published>
+    <updated>2025-02-06T12:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/sleep-mask-jet-black"/>
+    <title>The Sleep Mask in Jet Black</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_TravelWell_SleepMask_Black_02_6e0b6853-4dd8-4163-983c-a175db60b40c.jpg?v=1739239946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            13.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Extra soft and super sleek, The Sleep Mask features a molded interior shape that gives your eyes plenty of room. It includes a hidden pocket for easy ear plug storage, and folds into itself for easy packing.</p>
+<p>Additionally, our fabric uses 37.5® thermoregulating technology to personalize climate control. If you get hot, 37.5 active particles help to cool you down. If you get cold, these same particles work to warm you up.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ngf</s:tag>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884878700728</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>100045BLKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884877553848</id>
+    <published>2025-02-04T17:10:00-05:00</published>
+    <updated>2025-02-04T17:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/active-tote-45l-forest-green"/>
+    <title>Active Tote 45L in Forest Green</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_FAR_Tote_45L_Green_01_e64e6321-5775-42dc-a29c-b8bdf477500c.jpg?v=1739239967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made from a lightweight, high-strength polyester, this versatile 45L Tote packs a day's worth of travel essentials. A top cinch closure adjusts to how much you pack, while an exterior and interior pocket system organizes your phone, passport, and other valuables within reach.</p>
+<p><meta charset="utf-8">Made from 100% water repellent and abrasion-resistant Dual Action fabric, our Active Collection is designed to protect your belongings from the elements—whether you’re staying local or going off the grid.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ngf</s:tag>
+    <s:tag>oos-CA</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884877553848</id>
+      <title>Forest Green</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>100069GRNV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884896985272</id>
+    <published>2025-02-04T16:53:00-05:00</published>
+    <updated>2025-02-04T16:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/active-duffle-55l-vivid-blue"/>
+    <title>Active Duffle 55L in Vivid Blue</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_FAR_Duffle_55L_Blue_01_4fd6f1ab-ded6-433d-97d7-dafc590139d4.jpg?v=1739239806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The 55L travel duffle is the medium-sized bag in the Active collection that holds a week's worth of gear. Made from a lightweight, high-strength polyester, this bag features our unique compression system that helps you pack more in and convertible padded straps that allow you to conveniently transport the duffle like a backpack for longer distances.</p>
+<p>Made from 100% water repellent and abrasion-resistant Dual Action fabric, our Active Collection is designed to protect your belongings from the elements—whether you’re staying local or going off the grid.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ngf</s:tag>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884896985272</id>
+      <title>Vivid Blue</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>100057VBLUV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884897214648</id>
+    <published>2025-02-04T16:49:00-05:00</published>
+    <updated>2025-02-04T16:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/active-duffle-55l-forest-green"/>
+    <title>Active Duffle 55L in Forest Green</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_FAR_Duffle_55L_Green_01_bb331807-5044-42e5-8d23-b00ab7aa5340.jpg?v=1739239802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The 55L travel duffle is the medium-sized bag in the Active collection that holds a week's worth of gear. Made from a lightweight, high-strength polyester, this bag features our unique compression system that helps you pack more in and convertible padded straps that allow you to conveniently transport the duffle like a backpack for longer distances.</p>
+<p>Made from 100% water repellent and abrasion-resistant Dual Action fabric, our Active Collection is designed to protect your belongings from the elements—whether you’re staying local or going off the grid.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ngf</s:tag>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884897214648</id>
+      <title>Forest Green</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>100057GRNV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884897771704</id>
+    <published>2025-02-04T16:48:00-05:00</published>
+    <updated>2025-02-04T16:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/active-duffle-55l-burgundy-red"/>
+    <title>Active Duffle 55L in Burgundy Red</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/d9b23d03-0e8d-4835-843a-a2c9e0c45fd7_2ffa7654-6955-4d6c-bdca-d1a0a74ef07e.jpg?v=1739239797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The 55L travel duffle is the medium-sized bag in the Active collection that holds a week's worth of gear. Made from a lightweight, high-strength polyester, this bag features our unique compression system that helps you pack more in and convertible padded straps that allow you to conveniently transport the duffle like a backpack for longer distances.</p>
+<p><meta charset="utf-8">Made from 100% water repellent and abrasion-resistant Dual Action fabric, our Active Collection is designed to protect your belongings from the elements—whether you’re staying local or going off the grid.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ngf</s:tag>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884897771704</id>
+      <title>Burgundy Red</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>100047CVNV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884897149112</id>
+    <published>2025-02-04T16:47:00-05:00</published>
+    <updated>2025-02-04T16:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/active-duffle-55l-atomic-celery"/>
+    <title>Active Duffle 55L in Atomic Celery</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_FAR_Duffle_55L_Celery_01_847649a5-deba-4942-8cb0-c02c2091300f.jpg?v=1739239804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The 55L travel duffle is the medium-sized bag in the Active collection that holds a week's worth of gear. Made from a lightweight, high-strength polyester, this bag features our unique compression system that helps you pack more in and convertible padded straps that allow you to conveniently transport the duffle like a backpack for longer distances.</p>
+<p>Made from 100% water repellent and abrasion-resistant Dual Action fabric, our Active Collection is designed to protect your belongings from the elements—whether you’re staying local or going off the grid.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ngf</s:tag>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884897149112</id>
+      <title>Atomic Celery</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>100057CLYV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884946858168</id>
+    <published>2025-02-04T16:33:00-05:00</published>
+    <updated>2025-02-04T16:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/active-duffle-70l-burgundy-red"/>
+    <title>Active Duffle 70L in Burgundy Red</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/619bd434-8fff-420c-b2b4-d0212bcc4b34_c6e1ead2-ecb5-4b9b-9cf2-057a28a5a617.jpg?v=1739239458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The 70L travel duffle is the largest bag in the Active collection and holds a checked suitcase amount of gear for week-long-plus excursions. Made from a lightweight, high-strength polyester, this bag features our unique compression system that helps you pack more in and convertible padded straps that allow you to conveniently transport the duffle like a backpack for longer distances.</p>
+<p><meta charset="utf-8">Made from 100% water repellent and abrasion-resistant Dual Action fabric, our Active Collection is designed to protect your belongings from the elements—whether you’re staying local or going off the grid.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ngf</s:tag>
+    <s:tag>oos-CA</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884946858168</id>
+      <title></title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>100048CVNV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -11,6 +11,13 @@ use App\Http\Controllers\Category;
 use App\Http\Controllers\CustomerController;
 use App\Http\Controllers\AuthenticatedSessionController;
 use App\Http\Controllers\FooterSectionController;
+use App\Http\Controllers\CartController;
+use App\Http\Controllers\CheckoutController;
+use App\Http\Controllers\AddressController;
+use App\Http\Controllers\UserController;
+
+
+
 
 
 
@@ -101,3 +108,77 @@ Route::get('/footer/{section_key}', [CustomerController::class, 'showFooterSecti
     Route::get('/footer/{section}', [CustomerController::class, 'showFooterSection'])
         ->name('customer.footer');
     
+
+        // Cart
+        Route::middleware(['auth'])->group(function () {
+            Route::post('/cart/add/{product}', [CartController::class, 'add'])->name('cart.add');
+            Route::post('/cart/remove/{product}', [CartController::class, 'remove'])->name('cart.remove');
+            Route::get('/cart', [CartController::class, 'view'])->name('cart.show');
+            Route::post('/cart/update/{product}', [CartController::class, 'updateQuantity'])->name('cart.updateQuantity');
+
+        });
+    
+        // Checkout
+
+        Route::middleware(['auth'])->group(function () {
+            // Show Cart page
+            Route::get('/cart', [CheckoutController::class, 'show'])->name('cart.show');
+        
+            // Checkout review page (index shows the review)
+            Route::get('/checkout', [CheckoutController::class, 'index'])->name('cart.checkout-index');
+        
+            // Process checkout (place order)
+            Route::post('/checkout', [CheckoutController::class, 'process'])->name('checkout.process');
+        
+            // Checkout success page
+            Route::get('/checkout/success/{order}', [CheckoutController::class, 'success'])->name('cart.checkout-success');
+        });
+        
+                    // Show cart/review page (checkout index)
+            Route::middleware('auth')->get('/checkout', [CheckoutController::class, 'index'])->name('cart.checkout-index');
+
+            // Process order (place order)
+            Route::middleware('auth')->post('/checkout', [CheckoutController::class, 'process'])->name('checkout.process');
+
+            // Success page
+            Route::middleware('auth')->get('/checkout/success/{order}', [CheckoutController::class, 'success'])->name('cart.checkout-success');
+
+
+            // Address
+
+        Route::middleware('auth')->group(function() {
+            Route::get('/addresses', [AddressController::class, 'index'])->name('addresses.index');
+            Route::get('/addresses/create', [AddressController::class, 'create'])->name('addresses.create');
+            Route::post('/addresses', [AddressController::class, 'store'])->name('addresses.store');
+            Route::post('/addresses/{address}/default', [AddressController::class, 'setDefault'])->name('addresses.setDefault');
+            Route::delete('/addresses/{address}', [AddressController::class, 'destroy'])->name('addresses.destroy');
+        });
+
+        Route::prefix('admin')->name('admin.')->middleware(['auth', 'is_admin'])->group(function () {
+            Route::get('users', [UserController::class, 'index'])->name('users.index');
+            Route::get('users/{user}/edit', [UserController::class, 'edit'])->name('users.edit');
+            Route::put('users/{user}', [UserController::class, 'update'])->name('users.update');
+        });
+        
+
+
+        Route::middleware(['auth', 'is_admin'])->group(function () {
+            Route::get('/admin/addresses', [AddressController::class, 'adminIndex'])->name('addresses.adminindex');
+        });
+        
+
+        // admin orders
+
+        use App\Http\Controllers\OrderController;
+
+Route::middleware(['auth', 'is_admin'])->prefix('admin')->name('admin.')->group(function () {
+    // ...other routes...
+    Route::get('/orders', [OrderController::class, 'adminIndex'])->name('orders.index');
+});
+
+Route::put('orders/{order}/status', [\App\Http\Controllers\OrderController::class, 'updateStatus'])
+    ->name('admin.orders.updateStatus')
+    ->middleware(['auth', 'is_admin']);
+
+
+

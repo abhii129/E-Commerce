@@ -52,8 +52,35 @@
                 </li>
             </ul>
         </li>
+         <!-- New Users Menu Item -->
+         <li>
+    <button class="w-full text-left py-2 px-4 text-gray-700 hover:bg-gray-200" onclick="toggleDropdown('userMenu')">
+        Customers
+    </button>
+    <ul id="userMenu" class="space-y-2 pl-4 hidden">
+        <li><a href="{{ route('admin.users.index') }}" class="block py-2 text-gray-700 hover:bg-gray-200">Customers List</a></li>
+        <li><a href="{{ route ('addresses.adminindex') }}" class="block py-2 text-gray-700 hover:bg-gray-200">Addresses</a></li>
+    </ul>
+</li>
+
+<li>
+    <a href="{{ route('admin.orders.index') }}" class="block py-2 text-gray-700 hover:bg-gray-200">
+        Orders
+    </a>
+</li>
+
+
+<script>
+    function toggleDropdown(id) {
+        const el = document.getElementById(id);
+        if(el) el.classList.toggle('hidden');
+    }
+</script>
+
     </ul>
 </div>
+
+
 
 <script>
     // Function to toggle the visibility of dropdown menus

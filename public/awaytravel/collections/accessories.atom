@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.awaytravel.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.awaytravel.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.awaytravel.com/collections/accessories.atom"/>
+  <title>Away: Built for modern travel</title>
+  <updated>2025-06-10T09:24:45-04:00</updated>
+  <author>
+    <name>Away: Built for modern travel</name>
+  </author>
+  <entry>
+    <id>https://www.awaytravel.com/products/9983337660600</id>
+    <published>2025-06-10T09:24:45-04:00</published>
+    <updated>2025-06-10T09:24:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/running-shoe-cube-jet-black"/>
+    <title>Running Shoe Cube in Jet Black</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Sport_ShoeCube_Black_01.jpg?v=1749158217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>The Running Shoe Cube is a low-profile hero that keeps sneakers separate, odors contained, and routines a little more organized. <br><br></span><span></span><b></b><span>Made from lightweight, machine-washable ripstop nylon, it's structured and breathable, with a wipeable, antimicrobial lining. The full zip-around opening lays flat for easy packing, and the top grab handle means you can toss it into your Sport Backpack or Gym Bag (or your suitcase) without a hitch. Think of it as your gear's best-kept secret.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9983337660600</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>100770BLKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9974475817144</id>
+    <published>2025-05-28T08:52:03-04:00</published>
+    <updated>2025-05-28T08:52:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/dry-bag-duo-seaside-blue"/>
+    <title>Dry Bag Duo in Seaside Blue</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Beach_DryBag_Blue_01.jpg?v=1747767325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>For the days that blur together in sunscreen, salt water, and shifting plans—there's the Dry Bag Duo. This set of two water-resistant bags keeps the clean nice and dry, the sand well-contained, and all your other essentials sealed and sorted.</span><b></b></p>
+<p dir="ltr"><span>Made from durable ripstop, they're splash-resistant, sun-ready, and built to keep up—whether you're packing up after a swim or the gym, hopping on a boat, or tossing damp clothes into </span><span>the car</span><span> before dinner. The roll-top closure locks everything in with a few quick folds, while two sizes make it easy to pack with purpose. </span><span>These dry bags</span><span> keep the </span><span>beach</span><span> in check—so you can stay in vacation mode.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9974475817144</id>
+      <title>Seaside Blue</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>100765SSBV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9974473162936</id>
+    <published>2025-05-28T08:52:00-04:00</published>
+    <updated>2025-05-28T08:52:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/travel-glasses-case-jet-black"/>
+    <title>Travel Glasses Case in Jet Black</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Beach_Sunglasses_Black_01.jpg?v=1747767359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Bring the shades, bring the backups—maybe even one just for the beach reads under an umbrella. The Travel Glasses Case is mini but mighty, with space for up to three pairs and a padded microsuede lining to keep them scratch-free, smudge-free, and easy to grab. </span></p>
+<p dir="ltr"><span>Toss it in your beach tote during the day, then carry it to the alfresco dinner as a clutch for golden hour (yes, it does both). Whether you're juggling readers and sunnies or just making room for that inevitable impulse buy, this case is one of those small luxuries that makes the whole day feel more pulled together.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9974473162936</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>100764BLKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9958566592696</id>
+    <published>2025-05-06T08:31:49-04:00</published>
+    <updated>2025-05-06T08:31:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/kids-packing-cubes-fruit-punch"/>
+    <title>Kids Packing Cubes in Fruit Punch</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Kids_PackingCube_03.jpg?v=1746557100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Teach them to travel smart from the start with our Kids Packing Cubes—a game changer for even the smallest adventurers (and the parents who pack them). Designed to maximize space and minimize your repacking efforts, the cute, color-blocked set includes three cubes that work with our Kids Carry-On compression system and keep everything from tiny socks to “essential” souvenirs in their place. Beyond their huge organizational lift, these cubes make packing feel like play for them—and turn chaos into calm for you.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9958566592696</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>100763MLTV1Set of 3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9958565740728</id>
+    <published>2025-05-06T08:31:47-04:00</published>
+    <updated>2025-05-06T08:31:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/kids-lunch-box-splash-blue"/>
+    <title>Kids Lunch Box in Splash Blue</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Kids_LunchBox_Blue_01.jpg?v=1746458949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8">Lightweight and ready for adventure, the Kids Lunch Box keeps snacks fresh and organized from 30,000 feet to the school cafeteria. With a color-blocked, washed nylon exterior in child-approved hues, it unzips to a roomy main compartment designed fit popular lunch box brands, including Bento Box, with thoughtful details like an interior zippered pocket for utensils, an elastic mesh top lid for smaller snacks, and an ice pack compartment. Plus, its clip attaches seamlessly to the Kids Backpack, making family travel feel more manageable—whether the journey takes you to the playground or across continents.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9958565740728</id>
+      <title>Splash Blue</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>100760BBLV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9924391502008</id>
+    <published>2025-03-20T13:16:13-04:00</published>
+    <updated>2025-03-20T13:16:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/stadium-bag-clear"/>
+    <title>Stadium Bag in Clear</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_StadiumBag_Clear_01.jpg?v=1742491309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our fan-favorite Mini is now your ticket to every event. The clear Stadium Bag lets you breeze through stadium and festival gates without skipping a beat. Designed with a clear front and back, it keeps your must-haves—lip balm, tickets, glow-sticks, souvenirs, and keys—neatly organized. Plus, it slips easily into your Away suitcase, duffle, tote, or backpack. </p>
+<p>With a removable crossbody strap, you can stay hands free whether you're catching a concert, traveling to a festival, or cheering on your favorite team.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9924391502008</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>100711CLRV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9896291696824</id>
+    <published>2025-03-12T15:15:14-04:00</published>
+    <updated>2025-03-12T15:15:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/luggage-tag-coast-blue"/>
+    <title>The Luggage Tag in Coast Blue</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/d79f77f3-a518-4b52-83a8-cbad66e35d1b_84acbc62-fae1-471d-8174-b5a6b0707c62.jpg?v=1742245711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Make your luggage unmistakably yours with tags in 10 core colors. Match it to your suitcase for that monochrome look or mix it up and make it pop. Whatever you choose, these leather luggage tags are crafted for durability and designed to stand out, ensuring a smooth journey from carousel to curb.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-UK</s:tag>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9896291696824</id>
+      <title>Coast Blue</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>100709MBLUV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884950790328</id>
+    <published>2025-03-11T18:25:40-04:00</published>
+    <updated>2025-03-11T18:25:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/large-toiletry-bag-coast-blue"/>
+    <title>The Large Toiletry Bag in Coast Blue</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_ToiletryBag_Large_Coast_01_738aa0a5-c616-46a9-b550-0e8841a9fe8e.jpg?v=1739239417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed to fit all of your travel essentials, and then some. With an exterior zip pocket for grab-and-go items (like disinfectant wipes or makeup remover pads), our toiletry case has multiple interior compartments to keep your products organized and at the ready.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884950790328</id>
+      <title>Coast Blue</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>100115MBLUNV1Large</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9918294327480</id>
+    <published>2025-03-11T14:24:17-04:00</published>
+    <updated>2025-03-11T14:24:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/clear-toiletry-bag-clear"/>
+    <title>Clear Toiletry Bag in Clear</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_ToiletryCase_Clear_01.jpg?v=1741810585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>I</span><span>ntroducing the Clear Toiletry Bag—your solution to stress-free packing. With instant visibility, it keeps your toiletries, makeup, and other essentials accessible. Thoughtfully designed with two compartments, it easily fits travel-sized products (think: shampoo, conditioner, body wash, small hairbrush, deodorant, and more). A branded elastic loop holds your toothbrush or makeup brush and a leather top handle that makes it easy to carry, and also lays flat. Pack efficiently, travel free and clear.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9918294327480</id>
+      <title>Clear</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>100744CLRV1Small</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884917366968</id>
+    <published>2025-03-04T18:18:07-05:00</published>
+    <updated>2025-03-04T18:18:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/collegiate-luggage-tag-uconn"/>
+    <title>The Collegiate Luggage Tag in UConn ®</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/8e4ee845-17fd-4216-bde1-45392e587cc2_14af3bad-2e35-4c3a-b1e9-81652cf7815e.jpg?v=1744231056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our officially licensed college collection has arrived—rep your team from takeoff to tailgates with our Luggage Tag now sporting your favorite school. Whatever you choose, these leather luggage tags are crafted for durability and designed to stand out, ensuring a smooth journey from carousel to curb.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MIGRATED</s:tag>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884917366968</id>
+      <title>UConn ®</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>100709NVYUCONNV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9896265580728</id>
+    <published>2025-03-04T10:51:14-05:00</published>
+    <updated>2025-03-04T10:51:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/shoe-cube-jet-black"/>
+    <title>The Shoe Cube in Jet Black</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_ShoeCube_Small_Black_01.jpg?v=1741984611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            25.00 - 35.00
+            <a href="https://www.awaytravel.com/products/shoe-cube-jet-black">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made from sturdy and flexible water repellent nylon, our Shoe Cubes feature a collapsible divider to store and separate multiple pairs of shoes, and a handle for easy carrying or hanging.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9896265580728</id>
+      <title>Jet Black / Small</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>100231BLKV1Small</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9896265580728</id>
+      <title>Jet Black / Large</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>100231BLKV1Large</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9895797817528</id>
+    <published>2025-03-04T10:02:09-05:00</published>
+    <updated>2025-03-04T10:02:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/centerfold-garment-sleeve-jet-black"/>
+    <title>The Centerfold Garment Sleeve in Jet Black</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_GarmentSleeve_BCO_Black_01.jpg?v=1741984678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            65.00 - 85.00
+            <a href="https://www.awaytravel.com/products/centerfold-garment-sleeve-jet-black">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Centerfold Garment Sleeve, designed to fit perfectly inside carry-on suitcases, zips open vertically, keeping everything inside secure and wrinkle-free. Made with water-resistant nylon and featuring classic leather details, this bag clips into your luggage, leaving your clothes folded and pressed throughout any journey.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9895797817528</id>
+      <title>Carry-On / Bigger Carry-On</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>100082BLKV2Bigger Car</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9895797817528</id>
+      <title>Medium / Large</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>100082BLKV2Large</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884907536568</id>
+    <published>2025-02-27T10:31:07-05:00</published>
+    <updated>2025-02-27T10:31:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/sunglasses-pouch-sea-green"/>
+    <title>Sunglasses Pouch in Sea Green</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/393155a5-6401-4e92-97dd-f3374510b71e.jpg?v=1736350247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keep your eyes on the horizon with our Sunglasses Pouch, designed for sun-filled adventures and spontaneous trips. With a playful pop-color interior, it's made to attach right onto your bag strap, so your shades are always ready for whatever comes next. From beach days to city explorations, this pouch is the perfect travel companion, helping you see every moment clearly as your itinerary unfolds. Gift a getaway essential they can't travel without.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884907536568</id>
+      <title>Sea Green</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>100658LGRNV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9909750169784</id>
+    <published>2025-02-25T18:18:56-05:00</published>
+    <updated>2025-02-25T18:18:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/active-hanging-toiletry-bag-jet-black"/>
+    <title>Active Hanging Toiletry Bag in Jet Black</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Outdoor_HangingToiletryBag_Black_01.jpg?v=1740580607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed for life in motion, the Active Hanging Toiletry Bag keeps your essentials organized wherever you go. Lightweight, durable, and made from 100% recycled materials, it's built to handle everything from weekend getaways to extended adventures. With a smart, trifold design, multiple storage compartments, and a strap that doubles as a wraparound and hanging hook, it's the ultimate companion for seamless travel.</p>
+<p><meta charset="utf-8">Made from 100% water repellent and abrasion-resistant Dual Action fabric, our Active Collection is designed to protect your belongings from the elements—whether you’re staying local or going off the grid.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9909750169784</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>100742BLKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884933390520</id>
+    <published>2025-02-07T17:54:00-05:00</published>
+    <updated>2025-02-07T17:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/train-case-sea-green"/>
+    <title>The Train Case in Sea Green</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/705376ab-2263-4f4a-a0a9-c723cedf8b15_170ffae4-ce42-4c80-9423-b827d7d6f0f8.jpg?v=1739239594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            165.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The iconic '90s organizer gets an upgrade—meet The Train Case. With a sleek, structured silhouette and durable polycarbonate hardshell, this versatile organizer is perfect for cosmetics, hair tools, tech accessories, camera gear, and so much more.</p>
+<p>Stay secure and organized with an interior zipper pocket and adjustable dividers that can create four to six compartments within the case. Choose how you carry it—via the shoulder strap, easy-grip top handle, or trolley sleeve that secures to any Away suitcase. Plus, with hundreds of personalization options, it's as customizable as it is stylish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884933390520</id>
+      <title>Sea Green</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>100715LGRNV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884934078648</id>
+    <published>2025-02-07T15:59:00-05:00</published>
+    <updated>2025-02-07T15:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/mini-crossbody-sea-green"/>
+    <title>The Mini Crossbody in Sea Green</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/1f3d98b5-c3e4-42f5-abf9-3d1b9ef53904_81197630-e98c-4f1b-ac7c-3c1432103407.jpg?v=1739239581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our fan-favorite Mini is back and better than ever with a fresh (and functional) crossbody look. Crafted from our signature polycarbonate hardshell that’s rigorously tested for durability—it features an interior organization system to keep all your goods in place, like your fave lip gloss, sunglasses, wallet and whatever else you need. While it’s mini in size, this crossbody has major function. Use it as a packing cube in your suitcase or bag for chargers or toiletries, and attach the adjustable strap when you reach your destination for the perfect, hands-free crossbody.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884934078648</id>
+      <title>Sea Green</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>100711LGRNV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884942270648</id>
+    <published>2025-02-07T15:26:00-05:00</published>
+    <updated>2025-02-07T15:26:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/packing-cubes-four-coast-blue"/>
+    <title>The Insider Packing Cubes in Coast Blue</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_PackingCubes_4_Coast_02_1e2bdcb1-7538-4b4e-b64b-2aa3958bf845.jpg?v=1741188683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our packing cubes compress and organize everything inside your suitcase, from socks to shirts to even your bulkiest items. Made from water repellent nylon that protects your clothes, these travel must-haves are designed with a mesh panel to make it easy to find what you need without fully unpacking. Thoughtfully packaged as a set of four, our packing cubes are designed to fit perfectly inside our luggage.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884942270648</id>
+      <title>Coast Blue</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>100206MBLUV1Set of 4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884952428728</id>
+    <published>2025-02-07T14:57:00-05:00</published>
+    <updated>2025-02-07T14:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/hanging-toiletry-bag-salt-white"/>
+    <title>The Hanging Toiletry Bag in Salt White</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_ToiletryBag_Hanging_Salt_01_4d61253b-df77-4fde-96d5-4aa90e32e85b.jpg?v=1741704876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Hanging Toiletry Bag is made with water repellent nylon and a coated spill-proof interior. It's thoughtfully designed with a small hook so you can hang it on a door or wall, contains three mesh pouches that provide easy storage and convenient access to your favorite travel essentials, and includes a clear, removable pouch for smaller items or liquid products.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884952428728</id>
+      <title>Salt White</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>100086SLTV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884878700728</id>
+    <published>2025-02-06T12:07:00-05:00</published>
+    <updated>2025-02-06T12:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/sleep-mask-jet-black"/>
+    <title>The Sleep Mask in Jet Black</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_TravelWell_SleepMask_Black_02_6e0b6853-4dd8-4163-983c-a175db60b40c.jpg?v=1739239946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            13.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Extra soft and super sleek, The Sleep Mask features a molded interior shape that gives your eyes plenty of room. It includes a hidden pocket for easy ear plug storage, and folds into itself for easy packing.</p>
+<p>Additionally, our fabric uses 37.5® thermoregulating technology to personalize climate control. If you get hot, 37.5 active particles help to cool you down. If you get cold, these same particles work to warm you up.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ngf</s:tag>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884878700728</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>100045BLKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884937060536</id>
+    <published>2025-02-05T16:16:00-05:00</published>
+    <updated>2025-02-05T16:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/card-case-flamingo-pink"/>
+    <title>Card Case in Flamingo Pink</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/2a2768df-2a33-4a17-a025-c885d7972443.jpg?v=1739239497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted for the journey, defined by the details. With its slim, compact design, this card holder slips effortlessly into your pocket or bag, keeping your essentials close and organized. It features two card slots—one on each side—for your credit cards, plus two central slip pockets for cash or extra cards. Perfect for those who appreciate a sleek, sophisticated accessory that complements every journey.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884937060536</id>
+      <title>Flamingo Pink</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>100718PNKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884884893880</id>
+    <published>2025-02-05T15:59:00-05:00</published>
+    <updated>2025-02-05T15:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/passport-wallet-sea-green"/>
+    <title>Passport Wallet in Sea Green</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/3a007e6c-7258-4f5f-8ce7-cc3611517612.jpg?v=1739239880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elevate your escape with our Passport Wallet, crafted from premium pebbled leather. Featuring an exterior slip pocket for quick access to your passport or boarding pass and four interior card slots for your ID and credit cards so you can keep all your essentials close and at the ready. With a slim, compact design that slips seamlessly into any bag, it pairs perfectly with all Away luggage, adding an elevated touch to every journey.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884884893880</id>
+      <title>Sea Green</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>100719LGRNV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884937191608</id>
+    <published>2025-02-04T15:09:00-05:00</published>
+    <updated>2025-02-04T15:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/small-toiletry-bag-jet-black"/>
+    <title>The Small Toiletry Bag in Jet Black</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_ToiletryBag_Small_Black_01_a7af90ff-c260-4564-9405-409eb2c78215.jpg?v=1739239494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With the same thoughtful interior organization system, it’s our toiletry bag sized down—perfect for short trips and light packers. Featuring an exterior zip pocket for grab-and-go items (like disinfectant wipes or makeup remover pads), it has multiple interior compartments to keep your products organized and at the ready.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884937191608</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>100250BLKNYLV1Small</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884932276408</id>
+    <published>2025-02-03T14:19:00-05:00</published>
+    <updated>2025-02-03T14:19:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/large-tech-case-jet-black"/>
+    <title>The Large Tech Case in Jet Black</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_TechCase_Large_Black_01_3b4ab918-a81a-47fe-ab59-944aa772b6d5.jpg?v=1739239631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take what you need to work (or play) remotely in The Large Tech Case. This tech organizer will keep your gadgets—including your laptop charger, hard drives, and small gaming or music accessories—safe and secure. With a separate zipper compartment for larger devices and elastic loops for tangle-free cable storage, each and every item has a dedicated space. Plus, with an exterior handle on top, you can easily carry this case from one stop to the next (and every charging station along the way).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884932276408</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>100113BLKV1Large</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884932669624</id>
+    <published>2025-02-03T12:52:00-05:00</published>
+    <updated>2025-02-03T12:52:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/hanging-jewelry-organizer-sea-green"/>
+    <title>Hanging Jewelry Organizer in Sea Green</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/06ad97fe-f89b-49e1-8ee2-83fff8dec2ea.jpg?v=1739239619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the Hanging Jewelry Organizer—the perfect travel companion for keeping your jewelry secure and tangle-free wherever you go. Thoughtfully designed with recycled leather and polyester, and polished metal hardware for a modern touch.</p>
+<p>Every piece has a dedicated spot, from necklaces and bracelets to earrings and rings. The center compartment keeps necklaces from tangling, while a clear, divided pocket holds medium-sized pieces like cuffs and hoops. Two padded holders and a flat earring panel keep even your tiniest accessories in place. With a hook for easy hanging and a soft microfiber lining to protect your jewelry, this organizer simplifies on-the-go accessorizing. Compact enough to slip into any suitcase or bag—it's the perfect addition to your travel routine (or gift list). Gift a getaway essential they can't travel without.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884932669624</id>
+      <title>Sea Green</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>100724LGRNV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9255833272504</id>
+    <published>2024-11-15T12:07:00-05:00</published>
+    <updated>2024-11-15T12:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/cosmetics-bag-jet-black"/>
+    <title>The Cosmetics Bag in Jet Black</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_CosmeticBag_Black_01_a043131e-d373-48f4-b584-a4fa6571e9fd.jpg?v=1739240009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With thoughtfully designed interior organization, The Cosmetics Bag keeps essentials (think makeup, sunscreen, and more) in place along the way.</p>
+<p>A detachable brush roll snaps to the top lid to keep makeup brushes separate, while the bottom spill-proof compartment features neoprene and clear zip pockets for added storage and accessibility. Zipped closed, the compact makeup bag looks stylish when stored on bathroom counters around the world.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9255833272504</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>100035BLKNYLV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

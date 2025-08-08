@@ -1,0 +1,31 @@
+import{P as m}from"./-psn-consumer.js";import{P as c,a as x,l as o}from"./-psn-types.js";import{x as d}from"./chunk-lit-element-B04JoW0t.js";import{t as h}from"./chunk-custom-element-BhZVzxrc.js";import{r as u}from"./chunk-state-BZNsAlxZ.js";import"./-psn-context.js";import"./chunk-create-context-89xeped_.js";import"./chunk-BaseElement-CopzcQ-j.js";import"./chunk-moneyFormatter-CIg0BGM2.js";import"./chunk-WithShopifyCart-Bw08p0rZ.js";import"./chunk-WithApiClient-mq4vOvoR.js";import"./chunk-index-CKJCYK2x.js";import"./chunk-cart-sections-DQ33OuN-.js";import"./chunk-tracking-DO2MhGcG.js";import"./chunk-consume-B27YesmA.js";import"./chunk-context-request-event-GdmzvDV-.js";import"./chunk-property-Bc0RexEQ.js";import"./chunk-ref-7xufm7YO.js";import"./chunk-directive-C_Rw-dL6.js";var f=Object.defineProperty,g=Object.getOwnPropertyDescriptor,a=(l,r,e,s)=>{for(var t=s>1?void 0:s?g(r,e):r,n=l.length-1,i;n>=0;n--)(i=l[n])&&(t=(s?i(r,e,t):i(t))||t);return s&&t&&f(r,e,t),t};let p=class extends m{constructor(){super(...arguments),this.currentStep=c.Letters,this.textIsValid=!1}handleTextInputChange(l){const e=l.target.value,s=parseInt(this.psnContext.placement[8])||3,t=new RegExp(o(s));this.textIsValid=t.test(e)&&e.length>0&&e.length<s+1,this.nextButtonRef.value&&(this.nextButtonRef.value.disabled=!this.textIsValid),this.$emit(x.TextInput,e)}renderTemplate(){return d`
+      <div
+        class="flex h-full flex-col justify-start gap-lg px-sm py-lg lg:justify-center"
+      >
+        <div class="flex flex-col items-center justify-center">
+          <h3 class="body-small mb-sm text-center lg:h3 lg:mb-xl">
+            ${window.strings.psn.select_letters_title}
+          </h3>
+          <label class="flex max-w-full flex-col items-center gap-sm">
+            <input
+              type="text"
+              maxlength="${parseInt(this.psnContext.placement[8])||3}"
+              enterkeyhint="go"
+              placeholder="ABC"
+              pattern="${o(parseInt(this.psnContext.placement[8]))}"
+              value=${this.psnContext.letters}
+              @input=${this.handleTextInputChange}
+              class="peer utility-large max-w-full border-b border-t-foreground py-xs text-center text-3xl font-medium leading-none tracking-widest placeholder:text-t-disabled invalid:border-p-error"
+            />
+            <p
+              class="${this.textIsValid?"":"block"} hidden text-center text-p-error peer-invalid:block"
+            >
+              ${parseInt(this.psnContext.placement[8])>3?window.strings.psn.select_letters_characters_error:window.strings.psn.select_letters_error}
+            </p>
+            <p class="body-small">
+              ${this.psnContext.placement[10]?this.psnContext.placement[10]:window.strings.psn.select_letters_label.replace("##COUNT##",this.psnContext.placement[8]||"3")}
+            </p>
+          </label>
+        </div>
+      </div>
+    `}};a([u()],p.prototype,"textIsValid",2);p=a([h("psn-letters")],p);

@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.awaytravel.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.awaytravel.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.awaytravel.com/collections/crossbody-bags.atom"/>
+  <title>Away: Built for modern travel</title>
+  <updated>2025-08-05T08:55:17-04:00</updated>
+  <author>
+    <name>Away: Built for modern travel</name>
+  </author>
+  <entry>
+    <id>https://www.awaytravel.com/products/10022793478328</id>
+    <published>2025-08-05T08:55:17-04:00</published>
+    <updated>2025-08-05T08:55:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/featherlight-crossbody-nordic-gray"/>
+    <title>Featherlight Crossbody in Nordic Gray</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Featherlight_Crossbody_Small_Gray_01.jpg?v=1754314716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This crossbody bag is low-maintenance, highly organized, and good looking—exactly what you want in a travel companion. At just over half a pound, with an adjustable strap, you can pack it full without worrying that it's going to weigh you down. There’s a travel-ready pocket on the interior (exactly passport sized for easy access), an extra interior zip pocket, and a hidden pocket on the strap which is perfect for keeping your earbuds, lip gloss, or credit card at hand. Its softly structured shape drapes against the body when worn, but keeps its contents safely contained. It's a big lift for a light bag.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/10022793478328</id>
+      <title>Nordic Gray</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>100676NGRYV1Small</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884930015416</id>
+    <published>2025-03-21T11:25:47-04:00</published>
+    <updated>2025-03-21T11:25:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/packable-sling-bag-cayenne"/>
+    <title>The Packable Sling Bag in Cayenne</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Packable_Sling_Orange_01new_f75925ad-502c-4c70-9d6e-d2917d3d4169.jpg?v=1736350655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Packable Sling Bag will hold your wallet, keys, sunscreen, snacks—basically, anything you need close at hand. With the option to pack it down into a compact zip pouch or expand it and wear it around your waist, this lightweight sling bag can easily be stored in any Away suitcase or bag for added versatility and mobility wherever your travels take you.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ngf</s:tag>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884930015416</id>
+      <title>Cayenne</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>100146RORV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9924391502008</id>
+    <published>2025-03-20T13:16:13-04:00</published>
+    <updated>2025-03-20T13:16:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/stadium-bag-clear"/>
+    <title>Stadium Bag in Clear</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_StadiumBag_Clear_01.jpg?v=1742491309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our fan-favorite Mini is now your ticket to every event. The clear Stadium Bag lets you breeze through stadium and festival gates without skipping a beat. Designed with a clear front and back, it keeps your must-haves—lip balm, tickets, glow-sticks, souvenirs, and keys—neatly organized. Plus, it slips easily into your Away suitcase, duffle, tote, or backpack. </p>
+<p>With a removable crossbody strap, you can stay hands free whether you're catching a concert, traveling to a festival, or cheering on your favorite team.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9924391502008</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>100711CLRV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9896263221432</id>
+    <published>2025-03-11T18:24:25-04:00</published>
+    <updated>2025-03-11T18:24:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/mini-everywhere-bag-cream-white"/>
+    <title>Mini Everywhere Bag in Cream White</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/0921cc9d-b0b2-4383-a0f9-91a12f28de5f.jpg?v=1739290334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Your favorite mini just got a major upgrade. Our Mini Everywhere Bag is back and it's better than ever. Crafted from rich, pebbled leather, this cult classic is designed for those who want to travel in style without sacrificing functionality. Its hidden interior zipper, slip pocket, and removable shoulder strap, make it your perfect companion for everything from getaways to daily errands.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-UK</s:tag>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9896263221432</id>
+      <title>Default Title</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku>100704SLTV1MINI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9913486213304</id>
+    <published>2025-03-06T06:32:30-05:00</published>
+    <updated>2025-03-06T06:32:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/featherlight-sling-bag-sage-green"/>
+    <title>Featherlight Sling Bag in Sage Green</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Featherlight_Sling_Sage_01.jpg?v=1741261158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The smallest bag in the Featherlight collection, this lightweight sling bag is comfortable and endlessly wearable across your body or your waist. (If it didn't look so good, you might forget you had it on.) With a main zipper pouch, a front zipper pocket, and a hidden pocket, it has room for the essentials—like your phone, passport, keys, earbuds, and lipgloss. Low maintenance looks good on everyone, everywhere. It's a big lift for a light bag.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9913486213304</id>
+      <title>Sage Green</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>100673SGRNV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9913094504632</id>
+    <published>2025-03-04T17:25:00-05:00</published>
+    <updated>2025-03-04T17:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/featherlight-cargo-pack-sage-green"/>
+    <title>Featherlight Cargo Pack in Sage Green</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Featherlight_CargoBag_Sage_01.jpg?v=1741127979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This bag is ready for every day. Made from our water repellent Featherlight fabric, it's lightweight and washable. With four exterior pockets and a discreet zip pocket on the adjustable crossbody strap, essentials like your keys, lip balms, headphones, your phone, and snacks stay organized and within reach.</p>
+<p>Wear it over your shoulder or as a crossbody for hands-free ease. Whether you're swaying at a sunset concert, navigating a new city, or heading to an impromptu picnic, this bag is made for every spontaneous moment. That's a big lift for a light bag.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9913094504632</id>
+      <title>Sage Green</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>100746SGRNV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884936798392</id>
+    <published>2025-02-09T15:23:00-05:00</published>
+    <updated>2025-02-09T15:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/featherlight-crossbody-large-amaro-brown"/>
+    <title>Large Featherlight Crossbody in Amaro Brown</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/9a968953-298c-4db9-91d3-4eb9c3c9b330.jpg?v=1739239508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            78.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed to fit a lot, and with just enough support for anything you put inside. Weighing in at just under a pound, this large crossbody bag’s softly structured shape drapes well when worn, and has just enough support to keep its contents securely contained. Speaking of contents, it can fit a lot: there’s a 16" laptop sleeve, an extra inner zip pocket, an interior water bottle pocket, another side pocket that can hold sunglasses, a small water bottle, or a phone, and a hidden pocket on the adjustable strap that fits earbuds, lip balm, or a credit card. It’s organized, versatile, and easily packs down when needed, making it a perfect crossbody bag for getting there—and then getting around. It's a big lift for a light bag.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884936798392</id>
+      <title>Amaro Brown</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku>100677ABWNV1Large</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9899877236920</id>
+    <published>2025-02-08T11:57:00-05:00</published>
+    <updated>2025-02-08T11:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/small-everywhere-sling-bag"/>
+    <title>The Small Everywhere Sling Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/3c2be6a3-bbb3-4855-96cd-e9cc5ae0a12a_cdbbf907-08d4-456d-a856-519af65e795f.jpg?v=1739239512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Go hands-free with The Small Everywhere Sling Bag in lightweight nylon, designed for everyday journeys and spacious enough for all your on-the-go essentials. The main compartment features an interior mesh pocket, plus a front zip compartment that fits most phones.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>exclude-from-recommendations</s:tag>
+    <s:tag>seo.hidden</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9899877236920</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>100563BLKV1Small</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9899877236920</id>
+      <title>Olive Green</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>100563OLVGV1Small</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884935880888</id>
+    <published>2025-02-08T11:31:00-05:00</published>
+    <updated>2025-02-08T11:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/everywhere-sling-bag-coast-blue"/>
+    <title>The Everywhere Sling Bag in Coast Blue</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/b687c174-8ee9-4533-8aab-a2b6d0257b6e_adbfa604-f780-4326-9bbc-2596e8da7f21.jpg?v=1739239532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Go hands-free with The Everywhere Sling Bag, designed for all your on-the-go essentials. It features two main compartments and two interior pockets, plus an easy access back pocket for your phone or passport—all while fitting comfortably across your body.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ngf</s:tag>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884935880888</id>
+      <title>Coast Blue</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>100462MBLUV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884934406328</id>
+    <published>2025-02-07T16:02:00-05:00</published>
+    <updated>2025-02-07T16:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/mini-crossbody-tango-red"/>
+    <title>The Mini Crossbody in Tango Red</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/eb1c4914-3a02-45f3-9037-b351af0307db_8ea20641-d312-4c92-9480-a29107092da8.jpg?v=1739239576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our fan-favorite Mini is back and better than ever with a fresh (and functional) crossbody look. Crafted from our signature polycarbonate hardshell that’s rigorously tested for durability—it features an interior organization system to keep all your goods in place, like your fave lip gloss, sunglasses, wallet and whatever else you need. While it’s mini in size, this crossbody has major function. Use it as a packing cube in your suitcase or bag for chargers or toiletries, and attach the adjustable strap when you reach your destination for the perfect, hands-free crossbody.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PREORDER_US_OOS</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884934406328</id>
+      <title>Tango Red</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>100711TREDV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

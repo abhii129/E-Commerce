@@ -1,5 +1,5 @@
 <!-- Footer -->
-<link href="{{ asset('css/customer-index.css') }}" rel="stylesheet">
+<link href="{{ asset('css/footer.css') }}" rel="stylesheet">
 
 <footer class="footer">
     <div class="footer-container">

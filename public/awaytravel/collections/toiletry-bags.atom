@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.awaytravel.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.awaytravel.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.awaytravel.com/collections/toiletry-bags.atom"/>
+  <title>Away: Built for modern travel</title>
+  <updated>2025-03-11T18:25:40-04:00</updated>
+  <author>
+    <name>Away: Built for modern travel</name>
+  </author>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884950790328</id>
+    <published>2025-03-11T18:25:40-04:00</published>
+    <updated>2025-03-11T18:25:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/large-toiletry-bag-coast-blue"/>
+    <title>The Large Toiletry Bag in Coast Blue</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_ToiletryBag_Large_Coast_01_738aa0a5-c616-46a9-b550-0e8841a9fe8e.jpg?v=1739239417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed to fit all of your travel essentials, and then some. With an exterior zip pocket for grab-and-go items (like disinfectant wipes or makeup remover pads), our toiletry case has multiple interior compartments to keep your products organized and at the ready.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884950790328</id>
+      <title>Coast Blue</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>100115MBLUNV1Large</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9918294327480</id>
+    <published>2025-03-11T14:24:17-04:00</published>
+    <updated>2025-03-11T14:24:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/clear-toiletry-bag-clear"/>
+    <title>Clear Toiletry Bag in Clear</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_ToiletryCase_Clear_01.jpg?v=1741810585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>I</span><span>ntroducing the Clear Toiletry Bag—your solution to stress-free packing. With instant visibility, it keeps your toiletries, makeup, and other essentials accessible. Thoughtfully designed with two compartments, it easily fits travel-sized products (think: shampoo, conditioner, body wash, small hairbrush, deodorant, and more). A branded elastic loop holds your toothbrush or makeup brush and a leather top handle that makes it easy to carry, and also lays flat. Pack efficiently, travel free and clear.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9918294327480</id>
+      <title>Clear</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>100744CLRV1Small</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9909750169784</id>
+    <published>2025-02-25T18:18:56-05:00</published>
+    <updated>2025-02-25T18:18:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/active-hanging-toiletry-bag-jet-black"/>
+    <title>Active Hanging Toiletry Bag in Jet Black</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Outdoor_HangingToiletryBag_Black_01.jpg?v=1740580607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed for life in motion, the Active Hanging Toiletry Bag keeps your essentials organized wherever you go. Lightweight, durable, and made from 100% recycled materials, it's built to handle everything from weekend getaways to extended adventures. With a smart, trifold design, multiple storage compartments, and a strap that doubles as a wraparound and hanging hook, it's the ultimate companion for seamless travel.</p>
+<p><meta charset="utf-8">Made from 100% water repellent and abrasion-resistant Dual Action fabric, our Active Collection is designed to protect your belongings from the elements—whether you’re staying local or going off the grid.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9909750169784</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>100742BLKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884952428728</id>
+    <published>2025-02-07T14:57:00-05:00</published>
+    <updated>2025-02-07T14:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/hanging-toiletry-bag-salt-white"/>
+    <title>The Hanging Toiletry Bag in Salt White</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_ToiletryBag_Hanging_Salt_01_4d61253b-df77-4fde-96d5-4aa90e32e85b.jpg?v=1741704876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Hanging Toiletry Bag is made with water repellent nylon and a coated spill-proof interior. It's thoughtfully designed with a small hook so you can hang it on a door or wall, contains three mesh pouches that provide easy storage and convenient access to your favorite travel essentials, and includes a clear, removable pouch for smaller items or liquid products.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884952428728</id>
+      <title>Salt White</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>100086SLTV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884937191608</id>
+    <published>2025-02-04T15:09:00-05:00</published>
+    <updated>2025-02-04T15:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/small-toiletry-bag-jet-black"/>
+    <title>The Small Toiletry Bag in Jet Black</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_ToiletryBag_Small_Black_01_a7af90ff-c260-4564-9405-409eb2c78215.jpg?v=1739239494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With the same thoughtful interior organization system, it’s our toiletry bag sized down—perfect for short trips and light packers. Featuring an exterior zip pocket for grab-and-go items (like disinfectant wipes or makeup remover pads), it has multiple interior compartments to keep your products organized and at the ready.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884937191608</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>100250BLKNYLV1Small</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9255833272504</id>
+    <published>2024-11-15T12:07:00-05:00</published>
+    <updated>2024-11-15T12:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/cosmetics-bag-jet-black"/>
+    <title>The Cosmetics Bag in Jet Black</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_CosmeticBag_Black_01_a043131e-d373-48f4-b584-a4fa6571e9fd.jpg?v=1739240009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With thoughtfully designed interior organization, The Cosmetics Bag keeps essentials (think makeup, sunscreen, and more) in place along the way.</p>
+<p>A detachable brush roll snaps to the top lid to keep makeup brushes separate, while the bottom spill-proof compartment features neoprene and clear zip pockets for added storage and accessibility. Zipped closed, the compact makeup bag looks stylish when stored on bathroom counters around the world.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9255833272504</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>100035BLKNYLV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

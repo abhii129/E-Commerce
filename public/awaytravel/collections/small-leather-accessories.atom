@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.awaytravel.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.awaytravel.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.awaytravel.com/collections/small-leather-accessories.atom"/>
+  <title>Away: Built for modern travel</title>
+  <updated>2025-03-12T15:12:35-04:00</updated>
+  <author>
+    <name>Away: Built for modern travel</name>
+  </author>
+  <entry>
+    <id>https://www.awaytravel.com/products/9895802503352</id>
+    <published>2025-03-12T15:12:35-04:00</published>
+    <updated>2025-03-12T15:12:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/luggage-tag-navy-blue"/>
+    <title>The Luggage Tag in Navy Blue</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/7366db60-4d3d-4c69-a04f-425d8725ba45_fd36d43f-e35d-48f9-ba08-ef6d00911257.jpg?v=1738227032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Make your luggage unmistakably yours with tags in 10 core colors. Match it to your suitcase for that monochrome look or mix it up and make it pop. Whatever you choose, these leather luggage tags are crafted for durability and designed to stand out, ensuring a smooth journey from carousel to curb.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9895802503352</id>
+      <title>Navy Blue</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>100709NVYV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884917366968</id>
+    <published>2025-03-04T18:18:07-05:00</published>
+    <updated>2025-03-04T18:18:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/collegiate-luggage-tag-uconn"/>
+    <title>The Collegiate Luggage Tag in UConn ®</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/8e4ee845-17fd-4216-bde1-45392e587cc2_14af3bad-2e35-4c3a-b1e9-81652cf7815e.jpg?v=1744231056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our officially licensed college collection has arrived—rep your team from takeoff to tailgates with our Luggage Tag now sporting your favorite school. Whatever you choose, these leather luggage tags are crafted for durability and designed to stand out, ensuring a smooth journey from carousel to curb.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MIGRATED</s:tag>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884917366968</id>
+      <title>UConn ®</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>100709NVYUCONNV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884907634872</id>
+    <published>2025-02-27T10:31:07-05:00</published>
+    <updated>2025-02-27T10:31:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/sunglasses-pouch-flamingo-pink"/>
+    <title>Sunglasses Pouch in Flamingo Pink</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/b4719b16-f9c7-4299-b21f-bce5fd311183.jpg?v=1736350249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keep your eyes on the horizon with our Sunglasses Pouch, designed for sun-filled adventures and spontaneous trips. With a playful pop-color interior, it's made to attach right onto your bag strap, so your shades are always ready for whatever comes next. From beach days to city explorations, this pouch is the perfect travel companion, helping you see every moment clearly as your itinerary unfolds. Gift a getaway essential they can't travel without.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884907634872</id>
+      <title>Flamingo Pink</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>100658PNKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884936929464</id>
+    <published>2025-02-05T16:12:00-05:00</published>
+    <updated>2025-02-05T16:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/card-case-desert-tan"/>
+    <title>Card Case in Desert Tan</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/b36a7d89-1a82-442c-9103-c485599d8ba5.jpg?v=1741108287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted for the journey, defined by the details. With its slim, compact design, this card holder slips effortlessly into your pocket or bag, keeping your essentials close and organized. It features two card slots—one on each side—for your credit cards, plus two central slip pockets for cash or extra cards. Perfect for those who appreciate a sleek, sophisticated accessory that complements every journey.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884936929464</id>
+      <title>Desert Tan</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>100718CUOV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884884893880</id>
+    <published>2025-02-05T15:59:00-05:00</published>
+    <updated>2025-02-05T15:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/passport-wallet-sea-green"/>
+    <title>Passport Wallet in Sea Green</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/3a007e6c-7258-4f5f-8ce7-cc3611517612.jpg?v=1739239880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elevate your escape with our Passport Wallet, crafted from premium pebbled leather. Featuring an exterior slip pocket for quick access to your passport or boarding pass and four interior card slots for your ID and credit cards so you can keep all your essentials close and at the ready. With a slim, compact design that slips seamlessly into any bag, it pairs perfectly with all Away luggage, adding an elevated touch to every journey.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884884893880</id>
+      <title>Sea Green</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>100719LGRNV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

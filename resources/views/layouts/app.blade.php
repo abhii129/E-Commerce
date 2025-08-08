@@ -1,43 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+@stack('styles')
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Laravel Admin</title>
-
-    <!-- Link to custom CSS -->
-    <link rel="stylesheet" href="{{ asset('css/custom-styles.css') }}">
+    <title>@yield('title') | Your Store</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f9fafb;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+        main {
+            flex: 1;
+            padding-top: 70px; /* Set padding to the ACTUAL height of your navbar! */
+        }
+    </style>
 </head>
+<body class="antialiased">
+    <x-navbar />
 
-<body>
-    <div class="container">
-        <header>
-            <h1>Welcome to the Admin Panel</h1>
+    <main class="container mx-auto px-4 py-8">
+        <br><br><br><br>
+        @yield('content')
+    </main>
 
-            <!-- Check if the user is an admin and display content accordingly -->
-            @if(auth()->check() && auth()->user()->role === 'admin')
-                <p>Welcome, Admin!</p>
-                <!-- Admin specific navigation or links -->
-                <nav>
-                    <ul>
-                        <li><a href="{{ route('products.create') }}">Create Product</a></li>
-                    </ul>
-                </nav>
-            @else
-            
-
-            @endif
-        </header>
-
-        <!-- Logout Form -->
-        <form action="{{ route('logout') }}" method="POST" style="display: inline;">
-            @csrf
-            <button type="submit" class="btn btn-danger">Logout</button>
-        </form>
-
-        <main>
-            @yield('content') <!-- Page-specific content goes here -->
-        </main>
-    </div>
+    <x-footer />
 </body>
 </html>

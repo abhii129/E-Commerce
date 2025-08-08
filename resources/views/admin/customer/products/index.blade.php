@@ -1,4 +1,6 @@
-<x-navbar />
+@extends('layouts.app')
+
+@section('content')
 
 <html lang="en">
 <head>
@@ -182,6 +184,8 @@
     });
 </script>
 
-<x-footer />
+
 </body>
 </html>
+
+@endsection

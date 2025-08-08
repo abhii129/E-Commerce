@@ -1,0 +1,46 @@
+import{a as f}from"./chunk-BaseElement-CopzcQ-j.js";import{i as h,x as d}from"./chunk-lit-element-B04JoW0t.js";import{t as b}from"./chunk-custom-element-BhZVzxrc.js";import{n as l}from"./chunk-property-Bc0RexEQ.js";var y=Object.defineProperty,g=Object.getOwnPropertyDescriptor,n=(t,e,r,s)=>{for(var o=s>1?void 0:s?g(e,r):e,c=t.length-1,u;c>=0;c--)(u=t[c])&&(o=(s?u(e,r,o):u(o))||o);return s&&o&&y(e,r,o),o};function v(t){return Object.entries(t).filter(([,e])=>e!==void 0).map(([e,r])=>`${e}=${encodeURIComponent(r)}`).join("&")}let i=class extends f{constructor(){super(),this.publicKlaviyoId="",this.listKlaviyoId="",this.sectionId="",this.successMessage="",this.errorMessageOutput="",this.subscribedMessage="",this.errorMessage="",this.submissionStatus="",this.response={},this.form=null,this.submitToKlaviyo=t=>new Promise(e=>{if(!t.acceptMarketing||!t.email||!t.listId){e(!1);return}let r=`g=${t.listId}&email=${encodeURIComponent(t.email)}`;const s={...t,listId:void 0,email:void 0,acceptMarketing:void 0},o=[],c={$source:s.$source||"Test",$first_name:s.$first_name,$last_name:s.$last_name,$phone_number:s.$phone_number},u=v(c);r+=u?`&${u}`:"";const p=Object.entries(s).filter(([a,m])=>typeof m<"u"&&typeof c[a]>"u").map(([a,m])=>(o.push(a),`${a}=${encodeURIComponent(m)}`)).join("&");r+=p?`&${p}&$fields=${o.join(",")}`:"",fetch("https://a.klaviyo.com/ajax/subscriptions/subscribe",{method:"POST",headers:{"Content-Type":"application/x-www-form-urlencoded"},body:r}).then(a=>a.json()).then(a=>{e(a&&a.success),this.response=a}).catch(()=>{e(!1)})}),this.handleSubmit=async t=>{if(t.preventDefault(),!this.form){console.error("Form not found");return}if(!this.publicKlaviyoId){console.error("Missing required Klaviyo ID");return}this.submissionStatus="loading",this.errorMessage="";const e=this.querySelector('[type="submit"]');e==null||e.setAttribute("disabled","");try{const s=new FormData(this.form).get("contact[email]");if(!s||typeof s!="string"||!this.isValidEmail(s))throw new Error("Please enter a valid email address.");if(!await this.submitToKlaviyo({listId:this.listKlaviyoId,email:s,acceptMarketing:!0,$source:"Test"}))throw new Error("Subscription failed. Please try again.");this.submissionStatus="success",this.form.reset()}catch(r){this.submissionStatus="error",this.errorMessage=r instanceof Error?r.message:"An unexpected error occurred."}finally{e==null||e.removeAttribute("disabled")}},this.boundHandleSubmit=this.handleSubmit.bind(this)}connectedCallback(){if(super.connectedCallback(),!this.publicKlaviyoId){console.error("Missing required Klaviyo ID");return}this.form=this.querySelector("[data-newsletter-form]"),this.form&&this.form.addEventListener("submit",this.boundHandleSubmit)}disconnectedCallback(){this.form&&this.form.removeEventListener("submit",this.boundHandleSubmit),super.disconnectedCallback()}isValidEmail(t){return/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(t)}render(){var t,e;return d`
+      <slot></slot>
+      ${this.errorMessage?d`
+            <div
+              class="newsletter-form__error newsletter-form__error p mt-xs block"
+              role="alert"
+            >
+              ${this.errorMessageOutput?this.errorMessageOutput:this.errorMessage}
+            </div>
+          `:""}
+      ${this.submissionStatus==="success"?d`
+            <div
+              class="newsletter-form__success newsletter-form__success p mt-xs block font-bold"
+              role="status"
+              tabindex="-1"
+              autofocus
+            >
+              ${((e=(t=this.response)==null?void 0:t.data)==null?void 0:e.is_subscribed)===!0?this.subscribedMessage:this.successMessage}
+            </div>
+          `:""}
+    `}};i.styles=h`
+    :host {
+      display: block;
+      position: relative;
+    }
+    .newsletter-form__error {
+      color: red;
+      font-family: var(--font-family-primary, 'Graphik');
+      text-decoration: none;
+      letter-spacing: 0;
+      line-height: 1.2;
+      text-transform: none;
+      font-style: normal;
+      margin-top: 0.5rem;
+    }
+    .newsletter-form__success {
+      margin-top: 0.5rem;
+      font-weight: bold;
+      font-family: var(--font-family-primary, 'Graphik');
+      text-decoration: none;
+      letter-spacing: 0;
+      line-height: 1.2;
+      text-transform: none;
+      font-style: normal;
+    }
+  `;n([l({type:String,attribute:"data-public-klaviyo-id"})],i.prototype,"publicKlaviyoId",2);n([l({type:String,attribute:"data-list-klaviyo-id"})],i.prototype,"listKlaviyoId",2);n([l({type:String,attribute:"data-section-id"})],i.prototype,"sectionId",2);n([l({type:String,attribute:"data-success-message"})],i.prototype,"successMessage",2);n([l({type:String,attribute:"data-error-message"})],i.prototype,"errorMessageOutput",2);n([l({type:String,attribute:"data-subscribed-message"})],i.prototype,"subscribedMessage",2);n([l({type:String})],i.prototype,"errorMessage",2);n([l({type:String})],i.prototype,"submissionStatus",2);n([l({type:Object})],i.prototype,"response",2);i=n([b("email-signup-form")],i);

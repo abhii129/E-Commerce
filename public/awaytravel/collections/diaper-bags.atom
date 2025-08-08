@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.awaytravel.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.awaytravel.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.awaytravel.com/collections/diaper-bags.atom"/>
+  <title>Away: Built for modern travel</title>
+  <updated>2025-05-06T08:31:52-04:00</updated>
+  <author>
+    <name>Away: Built for modern travel</name>
+  </author>
+  <entry>
+    <id>https://www.awaytravel.com/products/9959750041784</id>
+    <published>2025-05-06T08:31:52-04:00</published>
+    <updated>2025-05-06T08:31:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/featherlight-diaper-backpack-amaro-brown"/>
+    <title>Featherlight Diaper Backpack in Amaro Brown</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Featherlight_Diaper_Backpack_Amaro_01.jpg?v=1746459883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            178.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>The Featherlight Diaper Backpack is a sleek, supremely lightweight solution for parents carrying a big load with only two hands—aka: </span><span>all</span><span> parents, </span><span>all</span><span> the time. The roomy main compartment has clear zippered pockets, plus smart spots for bottles, tech, and enough snacks to survive a meltdown while in line for your matcha. Plus, there's a removable changing caddy that pops out when doody calls, making on-the-go changes less of a production. Outside there's a tech pocket for your precious adult-only items, a front zip pocket for things you need</span><span> right now</span><span>, and dual water bottle pockets—because: </span><span>hydration</span><span>. Padded straps, a grab handle, stroller clips, and a trolley sleeve give you plenty of ways to carry it all with less chaos.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9959750041784</id>
+      <title>Amaro Brown</title>
+      <s:price currency="USD">178.00</s:price>
+      <s:sku>100762ABWNV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9959749812408</id>
+    <published>2025-05-06T08:31:51-04:00</published>
+    <updated>2025-05-06T08:31:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/featherlight-diaper-backpack-jet-black"/>
+    <title>Featherlight Diaper Backpack in Jet Black</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Featherlight_Diaper_Backpack_Black_01.jpg?v=1746459832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            178.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>The Featherlight Diaper Backpack is a sleek, supremely lightweight solution for parents carrying a big load with only two hands—aka: </span><span>all</span><span> parents, </span><span>all</span><span> the time. The roomy main compartment has clear zippered pockets, plus smart spots for bottles, tech, and enough snacks to survive a meltdown while in line for your matcha. Plus, there's a removable changing caddy that pops out when doody calls, making on-the-go changes less of a production. Outside there's a tech pocket for your precious adult-only items, a front zip pocket for things you need</span><span> right now</span><span>, and dual water bottle pockets—because: </span><span>hydration</span><span>. Padded straps, a grab handle, stroller clips, and a trolley sleeve give you plenty of ways to carry it all with less chaos.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9959749812408</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">178.00</s:price>
+      <s:sku>100762BLKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9959749320888</id>
+    <published>2025-05-06T08:31:50-04:00</published>
+    <updated>2025-05-06T08:31:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/featherlight-diaper-tote-amaro-brown"/>
+    <title>Featherlight Diaper Tote in Amaro Brown</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Featherlight_Diaper_Tote_Amaro_01.jpg?v=1746459730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            178.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Designed with both baby and caretaker in mind (because you matter too) the Featherlight Diaper Tote helps lighten your load while keeping you organized and ready for anything: playdates, park hangs, pediatrician visits, or just escaping the house with your sanity intact. Inside, there's a spacious main compartment with smart storage: wipeable clear pockets for easy visibility (no one wants to dig for a pacifier in a panic), and two mesh bottle holders. The removable diaper caddy with pockets and a fold-out changing pad makes quick changes feel—dare we say it?—kind of easy. Outside are two more pockets for bottles, grab handles and shoulder straps, a zippered, padded sleeve to keep your laptop safe, a stroller clip for when your hands are full (always), and a trolley sleeve for more seamless travel.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9959749320888</id>
+      <title>Amaro Brown</title>
+      <s:price currency="USD">178.00</s:price>
+      <s:sku>100761ABWNV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9959749091512</id>
+    <published>2025-05-06T08:31:50-04:00</published>
+    <updated>2025-05-06T08:31:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/featherlight-diaper-tote-jet-black"/>
+    <title>Featherlight Diaper Tote in Jet Black</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Featherlight_Diaper_Tote_Black_01.jpg?v=1746459768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            178.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Designed with both baby and caretaker in mind (because you matter too) the Featherlight Diaper Tote helps lighten your load while keeping you organized and ready for anything: playdates, park hangs, pediatrician visits, or just escaping the house with your sanity intact. Inside, there's a spacious main compartment with smart storage: wipeable clear pockets for easy visibility (no one wants to dig for a pacifier in a panic), and two mesh bottle holders. The removable diaper caddy with pockets and a fold-out changing pad makes quick changes feel—dare we say it?—kind of easy. Outside are two more pockets for bottles, grab handles and shoulder straps, a zippered, padded sleeve to keep your laptop safe, a stroller clip for when your hands are full (always), and a trolley sleeve for more seamless travel.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9959749091512</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">178.00</s:price>
+      <s:sku>100761BLKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884933357752</id>
+    <published>2025-02-09T15:56:00-05:00</published>
+    <updated>2025-02-09T15:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/double-diaper-tote-clay-pink"/>
+    <title>The Double Diaper Tote in Clay Pink</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/d4ba6518-87f5-4f25-8081-5562dfb509bb_44196eb9-026b-4119-a3dd-4c181fda7f4e.jpg?v=1739239596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            245.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the Double Diaper Tote—your family’s ultimate plus one for every trip. Designed with larger, separate compartments for both you and your little one, this all-in-one travel bag ensures you have everything you need—and nothing you don’t.</p>
+<p>The dedicated baby compartment offers easy access to diapers, bottles, and snacks, while your tech and personal items are securely organized in their own section. The wipeable, water-resistant bottom compartment ensures messes stay contained. Additional straps attach to industry-leading strollers, making navigating with your little one easier than ever. Perfect for parents on the go, the Double Diaper Tote grows with you, making it the only diaper bag you’ll ever need.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884933357752</id>
+      <title>Clay Pink</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku>100722CPNKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884933324984</id>
+    <published>2025-02-09T15:56:00-05:00</published>
+    <updated>2025-02-09T15:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/double-diaper-tote-cloud-gray"/>
+    <title>The Double Diaper Tote in Cloud Gray</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/5540dc8d-7179-4eba-bd92-b31ecf87ab46_6e5e6528-b274-4bc3-8fee-9c982f092934.jpg?v=1739239598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            245.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the Double Diaper Tote—your family’s ultimate plus one for every trip. Designed with larger, separate compartments for both you and your little one, this all-in-one travel bag ensures you have everything you need—and nothing you don’t.</p>
+<p>The dedicated baby compartment offers easy access to diapers, bottles, and snacks, while your tech and personal items are securely organized in their own section. The wipeable, water-resistant bottom compartment ensures messes stay contained. Additional straps attach to industry-leading strollers, making navigating with your little one easier than ever. Perfect for parents on the go, the Double Diaper Tote grows with you, making it the only diaper bag you’ll ever need.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884933324984</id>
+      <title>Cloud Gray</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku>100722LGRYV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884933292216</id>
+    <published>2025-02-09T15:56:00-05:00</published>
+    <updated>2025-02-09T15:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/double-diaper-tote-olive-green"/>
+    <title>The Double Diaper Tote in Olive Green</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/b50aef36-3572-45cd-b722-145faf4dc3d1_a9027b1d-bbf4-4f86-a9fa-b002bd3dab8c.jpg?v=1739239600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            245.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the Double Diaper Tote—your family’s ultimate plus one for every trip. Designed with larger, separate compartments for both you and your little one, this all-in-one travel bag ensures you have everything you need—and nothing you don’t.</p>
+<p>The dedicated baby compartment offers easy access to diapers, bottles, and snacks, while your tech and personal items are securely organized in their own section. The wipeable, water-resistant bottom compartment ensures messes stay contained. Additional straps attach to industry-leading strollers, making navigating with your little one easier than ever. Perfect for parents on the go, the Double Diaper Tote grows with you, making it the only diaper bag you’ll ever need.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884933292216</id>
+      <title>Olive Green</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku>100722OLVGV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884933259448</id>
+    <published>2025-02-09T15:56:00-05:00</published>
+    <updated>2025-02-09T15:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/double-diaper-tote-jet-black"/>
+    <title>The Double Diaper Tote in Jet Black</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/e44a2839-300d-4582-a995-b2387d6eb2ef_d305f2dd-a393-416c-a28c-8c22cb483619.jpg?v=1739239602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            245.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the Double Diaper Tote—your family’s ultimate plus one for every trip. Designed with larger, separate compartments for both you and your little one, this all-in-one travel bag ensures you have everything you need—and nothing you don’t.</p>
+<p>The dedicated baby compartment offers easy access to diapers, bottles, and snacks, while your tech and personal items are securely organized in their own section. The wipeable, water-resistant bottom compartment ensures messes stay contained. Additional straps attach to industry-leading strollers, making navigating with your little one easier than ever. Perfect for parents on the go, the Double Diaper Tote grows with you, making it the only diaper bag you’ll ever need.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884933259448</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku>100722BLKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884931063992</id>
+    <published>2025-02-09T15:56:00-05:00</published>
+    <updated>2025-02-09T15:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/double-diaper-backpack-clay-pink"/>
+    <title>The Double Diaper Backpack in Clay Pink</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/db1efb56-474d-4e03-82d7-0d7a1608ad28_0e6403d5-f6f2-4b3a-8001-77c024d53636.jpg?v=1739239652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            245.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the Double Diaper Backpack—your family’s ultimate plus one for every trip. Designed with separate compartments for both you and your little one, this all-in-one bag ensures you have everything you need—and nothing you don’t.</p>
+<p>The dedicated baby compartment offers easy access to diapers, bottles, and snacks, while your tech and personal items are securely organized in their own section. The wipeable, water-resistant bottom compartment ensures messes stay contained. Additional straps attach to industry-leading strollers, making navigating with your little one easier than ever. Perfect for parents on the go, the Double Diaper Backpack grows with you, making it the only diaper bag you’ll ever need.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884931063992</id>
+      <title>Clay Pink</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku>100723CPNKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884930932920</id>
+    <published>2025-02-09T15:56:00-05:00</published>
+    <updated>2025-02-09T15:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/double-diaper-backpack-cloud-gray"/>
+    <title>The Double Diaper Backpack in Cloud Gray</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/c36706b3-9e6b-4405-a5b1-7309e4960f4e_9fe089ae-4a7f-4e63-b9a4-3e0a7804c461.jpg?v=1739239654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            245.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the Double Diaper Backpack—your family’s ultimate plus one for every trip. Designed with separate compartments for both you and your little one, this all-in-one bag ensures you have everything you need—and nothing you don’t.</p>
+<p>The dedicated baby compartment offers easy access to diapers, bottles, and snacks, while your tech and personal items are securely organized in their own section. The wipeable, water-resistant bottom compartment ensures messes stay contained. Additional straps attach to industry-leading strollers, making navigating with your little one easier than ever. Perfect for parents on the go, the Double Diaper Backpack grows with you, making it the only diaper bag you’ll ever need.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884930932920</id>
+      <title>Cloud Gray</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku>100723LGRYV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884930900152</id>
+    <published>2025-02-09T15:56:00-05:00</published>
+    <updated>2025-02-09T15:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/double-diaper-backpack-jet-black"/>
+    <title>The Double Diaper Backpack in Jet Black</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/cce313dd-2e7b-421d-b56c-6d2cc7f5e9c9_e7e04f7c-e65b-44f8-9ad3-4a5cd20b3a64.jpg?v=1739239656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            245.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the Double Diaper Backpack—your family’s ultimate plus one for every trip. Designed with separate compartments for both you and your little one, this all-in-one bag ensures you have everything you need—and nothing you don’t.</p>
+<p>The dedicated baby compartment offers easy access to diapers, bottles, and snacks, while your tech and personal items are securely organized in their own section. The wipeable, water-resistant bottom compartment ensures messes stay contained. Additional straps attach to industry-leading strollers, making navigating with your little one easier than ever. Perfect for parents on the go, the Double Diaper Backpack grows with you, making it the only diaper bag you’ll ever need.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884930900152</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku>100723BLKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9884930867384</id>
+    <published>2025-02-09T15:56:00-05:00</published>
+    <updated>2025-02-09T15:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/double-diaper-backpack-olive-green"/>
+    <title>The Double Diaper Backpack in Olive Green</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/ce32f1b6-4081-4690-8c32-cdea1fa2742e_e7ec7475-2f47-4b2e-b796-e66587fded1b.jpg?v=1739239658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            245.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the Double Diaper Backpack—your family’s ultimate plus one for every trip. Designed with separate compartments for both you and your little one, this all-in-one bag ensures you have everything you need—and nothing you don’t.</p>
+<p>The dedicated baby compartment offers easy access to diapers, bottles, and snacks, while your tech and personal items are securely organized in their own section. The wipeable, water-resistant bottom compartment ensures messes stay contained. Additional straps attach to industry-leading strollers, making navigating with your little one easier than ever. Perfect for parents on the go, the Double Diaper Backpack grows with you, making it the only diaper bag you’ll ever need.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9884930867384</id>
+      <title>Olive Green</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku>100723OLVGV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,71 @@
+/* ===== Footer Content ===== */
+:root {
+    --primary: #455A64;        /* Slate */
+    --primary-dark: #263238;   /* Dark Slate */
+    --secondary: #B0BEC5;      /* Light blue-grey */
+    --accent: #90A4AE;         /* Accent for hover/focus */
+    --light: #FFFFFF;          /* White */
+    --light-alt: #F7F7F7;      /* Light background */
+    --dark: #263238;           /* Darkest */
+    --danger: #C62828;         /* For sale badges */
+  }
+  
+.footer {
+    border-top: 4px solid var(--gray);
+    padding: 3rem 0;
+    background: linear-gradient(90deg, var(--primary-dark) 0%, var(--primary) 100%);
+    color: var(--light);
+    background-size: 200% 100%;
+    background-position: left center;
+    transition: background-position 1s;
+    box-shadow: 0 3px 18px #26323830;
+}
+.footer:hover {
+    background-position: right center;
+}
+
+
+.footer-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 2.5rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.footer-column h3 {
+    color: var(--light);
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+    font-size: 1.14rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+.footer-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.footer-links li {
+    margin-bottom: 0.79rem;
+}
+.footer-links a {
+    color: var(--gray-light);
+    text-decoration: none;
+    transition: color 0.3s;
+    font-weight: 500;
+}
+.footer-links a:hover {
+    color: var(--accent);
+}
+.footer-bottom {
+    text-align: center;
+    padding-top: 2rem;
+    margin-top: 2rem;
+    border-top: 1px solid #FFFFFF14;
+    color: var(--gray-light);
+    font-size: 0.92rem;
+    background: linear-gradient(90deg, var(--primary) 0%, var(--primary-dark) 100%);
+}
+
+

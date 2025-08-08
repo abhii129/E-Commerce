@@ -5,6 +5,8 @@ use App\Models\Category;
 use App\Models\Subcategory;
 use App\Models\Product;
 use Illuminate\Http\Request;
+use App\Models\ProductVariation;
+
 
 class ProductController extends Controller
 {
@@ -27,31 +29,52 @@ class ProductController extends Controller
     
 
     public function store(Request $request)
-    {
-        $request->validate([
-            'category_id' => 'required|exists:categories,id',
-            'subcategory_id' => 'required|exists:subcategories,id',
-            'name' => 'required|string|max:255',
-            'price' => 'required|numeric',
-            'description' => 'required|string',
-            'image' => 'required|image|mimes:jpg,jpeg,png',
-        ]);
+{
+    $request->validate([
+        'category_id' => 'required|exists:categories,id',
+        'subcategory_id' => 'required|exists:subcategories,id',
+        'name' => 'required|string|max:255',
+        'description' => 'required|string',
+        'image' => 'required|image|mimes:jpg,jpeg,png',
+        'brand' => 'nullable|string|max:255',
+        'fit_type' => 'nullable|string|max:255',
+        'gender' => 'nullable|in:male,female,unisex',
+        'availability' => 'required|integer|min:0',
+        'price' => 'required|numeric|min:0', // base price validation
+        'variations.*.price_adjustment' => 'nullable|numeric|min:0', // variation price adjustment validation
+    ]);
 
-        // Store image
-        $imagePath = $request->file('image')->store('products', 'public');
+    $imagePath = $request->file('image')->store('products', 'public');
 
-        // Store the product
-        Product::create([
-            'category_id' => $request->category_id,
-            'subcategory_id' => $request->subcategory_id,
-            'name' => $request->name,
-            'price' => $request->price,
-            'description' => $request->description,
-            'image' => $imagePath,
-        ]);
+    $product = Product::create([
+        'category_id' => $request->category_id,
+        'subcategory_id' => $request->subcategory_id,
+        'name' => $request->name,
+        'description' => $request->description,
+        'image' => $imagePath,
+        'brand' => $request->brand,
+        'fit_type' => $request->fit_type,
+        'gender' => $request->gender,
+        'availability' => $request->availability,
+        'price' => $request->price, // Save base price
+    ]);
 
-        return redirect()->route('products.index');
+    // Save variations with price_adjustment
+    if ($request->has('variations')) {
+        foreach ($request->input('variations') as $variation) {
+            if (isset($variation['price_adjustment']) && $variation['price_adjustment'] !== '') {
+                $product->variations()->create([
+                    'size' => $variation['size'] ?? null,
+                    'color' => $variation['color'] ?? null,
+                    'price_adjustment' => $variation['price_adjustment'],
+                ]);
+            }
+        }
     }
+
+    return redirect()->route('products.index')->with('success', 'Product created successfully!');
+}
+
 
     public function destroy(Product $product)
 {

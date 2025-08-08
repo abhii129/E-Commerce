@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.awaytravel.com/en-ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.awaytravel.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.awaytravel.com/en-ca/collections/all.atom"/>
+  <title>Away: Built for modern travel</title>
+  <updated>2025-08-05T18:09:59-04:00</updated>
+  <author>
+    <name>Away: Built for modern travel</name>
+  </author>
+  <entry>
+    <id>https://www.awaytravel.com/en-ca/products/9913160106168</id>
+    <published>2025-08-05T18:09:59-04:00</published>
+    <updated>2025-08-05T18:09:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/en-ca/products/aluminum-luggage-tag-onyx-black-standard"/>
+    <title>Aluminum Luggage Tag in Onyx Black Standard</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Away</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Aluminum_Onyx_Tag_01.png?v=1747337475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/9913160106168</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>100406ONYXV6Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/en-ca/products/9913160237240</id>
+    <published>2025-08-05T18:09:41-04:00</published>
+    <updated>2025-08-05T18:09:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/en-ca/products/aluminum-luggage-tag-rose-gold-standard"/>
+    <title>Aluminum Luggage Tag in Rose Gold Standard</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Away</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Aluminum_RoseGold_Tag_01.png?v=1747337642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/9913160237240</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>100406ROSEGLDV3Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/en-ca/products/9895376584888</id>
+    <published>2025-08-05T11:23:34-04:00</published>
+    <updated>2025-08-05T11:23:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/en-ca/products/active-organizational-cube-red-orange"/>
+    <title>Active Organizational Cube in Red Orange</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_FAR_PackingCube_Red_Small_01.jpg?v=1741983479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            30.00 - 45.00
+            <a href="https://www.awaytravel.com/en-ca/products/active-organizational-cube-red-orange">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Active Organizational Cubes are made from recycled ripstop nylon and trim materials, and are specially designed to help you pack our Active bags for wherever outside takes you. All cube sizes have a top handle for easy hanging and a bottom zipper that compresses so you can pack more in. </p>
+<p>Made from 100% water- and abrasion-resistant Dual Action fabric, our Active collection is designed to protect your belongings from the elements—whether you’re staying local or going off the grid.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/9895376584888</id>
+      <title>Small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>100065TRORV1Small</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/9895376584888</id>
+      <title>Medium</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>100064TRORV1Medium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/9895376584888</id>
+      <title>Large</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>100063TRORV1Large</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/9895376584888</id>
+      <title>Extra Large</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>100066TRORV1XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/en-ca/products/9895376552120</id>
+    <published>2025-08-05T11:23:34-04:00</published>
+    <updated>2025-08-05T11:23:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/en-ca/products/active-organizational-cube-atomic-celery"/>
+    <title>Active Organizational Cube in Atomic Celery</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_FAR_PackingCube_Celery_Small_01.jpg?v=1741983214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            30.00 - 45.00
+            <a href="https://www.awaytravel.com/en-ca/products/active-organizational-cube-atomic-celery">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Active Organizational Cubes are made from recycled ripstop nylon and trim materials, and are specially designed to help you pack our Active bags for wherever outside takes you. All cube sizes have a top handle for easy hanging and a bottom zipper that compresses so you can pack more in. </p>
+<p>Made from 100% water- and abrasion-resistant Dual Action fabric, our Active collection is designed to protect your belongings from the elements—whether you’re staying local or going off the grid.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/9895376552120</id>
+      <title>Small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>100065CLYV1Small</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/9895376552120</id>
+      <title>Medium</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>100064CLYV1Medium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/9895376552120</id>
+      <title>Large</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>100063CLYV1Large</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/9895376552120</id>
+      <title>Extra Large</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>100066CLYV1XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/en-ca/products/9913160695992</id>
+    <published>2025-08-05T11:22:23-04:00</published>
+    <updated>2025-08-05T11:22:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/en-ca/products/aluminum-luggage-tag-silver-standard"/>
+    <title>Aluminum Luggage Tag in Silver Standard</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Away</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Aluminum_Silver_Tag_01.png?v=1747334475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-UK</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/9913160695992</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>100406SLVRV3Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/en-ca/products/9884936536248</id>
+    <published>2025-08-05T11:05:37-04:00</published>
+    <updated>2025-08-05T11:05:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/en-ca/products/small-everywhere-sling-bag-olive-green"/>
+    <title>The Small Everywhere Sling Bag in Olive Green</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/1f2e7cc3-a991-4dec-8e5c-74b67e54e927_42e580dd-0e78-48cd-8ec7-ae21ea409e0b.jpg?v=1739239514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Go hands-free with The Small Everywhere Sling Bag in lightweight nylon, designed for everyday journeys and spacious enough for all your on-the-go essentials. The main compartment features an interior mesh pocket, plus a front zip compartment that fits most phones.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/9884936536248</id>
+      <title>Olive Green</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>100563OLVGV1Small</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/en-ca/products/9884936863928</id>
+    <published>2025-08-05T11:04:59-04:00</published>
+    <updated>2025-08-05T11:04:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/en-ca/products/card-case-jet-black"/>
+    <title>Card Case in Jet Black</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/fe88f05d-77fb-4450-bb83-b6a7d7f34695.jpg?v=1739239505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted for the journey, defined by the details. With its slim, compact design, this card holder slips effortlessly into your pocket or bag, keeping your essentials close and organized. It features two card slots—one on each side—for your credit cards, plus two central slip pockets for cash or extra cards. Perfect for those who appreciate a sleek, sophisticated accessory that complements every journey.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/9884936863928</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>100718BLKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/en-ca/products/9884918808760</id>
+    <published>2025-08-05T11:03:56-04:00</published>
+    <updated>2025-08-05T11:03:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/en-ca/products/travel-wallet-desert-tan"/>
+    <title>Travel Wallet in Desert Tan</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/507eb9ac-d816-405b-9e2c-98d97bbe9bcd_a0d9b05e-c477-4635-83a3-452e8fbba6b5.jpg?v=1739239718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Streamline your journeys with our Travel Wallet—because keeping track of passports, cards, and cash shouldn't slow you down. Crafted with recycled leather, this wallet is built to hold up to four passports, five credit cards or IDs, plus a zippered pocket for coins and small essentials. Traveling with a crew? No problem—there's room for everyone's passports and boarding passes. Slip your cash into the interior pocket, zip it up, and go. Small enough to fit in a stocking, useful enough to take everywhere.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MIGRATED</s:tag>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/9884918808760</id>
+      <title></title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>100720CUOV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/en-ca/products/9884935422136</id>
+    <published>2025-08-05T11:03:26-04:00</published>
+    <updated>2025-08-05T11:03:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/en-ca/products/circle-zip-pouch-wave-blue"/>
+    <title>The Circle Zip Pouch in Wave Blue</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/b2c42a63-7d50-4982-974a-95cf0ae3707d.jpg?v=1739239540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It’s the little things. Sized to fit small essentials like a credit card, keys, or earbuds, this round zip pouch attaches to any bag, making it easy to access the things you need without having to dig deep.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/9884935422136</id>
+      <title>Wave Blue</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>100461PRFBLUV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/en-ca/products/9884935291064</id>
+    <published>2025-08-05T11:03:26-04:00</published>
+    <updated>2025-08-05T11:03:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/en-ca/products/the-circle-zip-pouch-in-orchid"/>
+    <title>The Circle Zip Pouch in Orchid</title>
+    <s:type></s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/5cfc6cee-01df-40e1-8221-133582ef71da.jpg?v=1736350915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It’s the little things. Sized to fit small essentials like a credit card, keys, or earbuds, this round zip pouch attaches to any bag, making it easy to access the things you need without having to dig deep.</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/9884935291064</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>100461LILCV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/en-ca/products/9884935618744</id>
+    <published>2025-08-05T11:03:24-04:00</published>
+    <updated>2025-08-05T11:03:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/en-ca/products/the-circle-zip-pouch-in-magenta-pink"/>
+    <title>The Circle Zip Pouch in Magenta Pink</title>
+    <s:type></s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/2c75b171-7c33-4405-abf9-743cb6922928.jpg?v=1736350928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It’s the little things. Sized to fit small essentials like a credit card, keys, or earbuds, this round zip pouch attaches to any bag, making it easy to access the things you need without having to dig deep.</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/9884935618744</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>100461MGTAV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/en-ca/products/9884935979192</id>
+    <published>2025-08-05T11:00:03-04:00</published>
+    <updated>2025-08-05T11:00:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/en-ca/products/quilted-everywhere-bag-jet-black"/>
+    <title>The Quilted Everywhere Bag in Jet Black</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/585081c9-ed0c-41f0-a4c8-a6f2d6d79cc2_7ce7a4a8-148e-4225-bd12-13ba429925ea.jpg?v=1739239529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the clean lines of our iconic suitcase design, the Quilted Collection is our take on the puffy bag trend. This new quilted version is our lightest Everywhere Bag yet, made with a water-resistant, 100% recycled polyester body. Features our signature trolley sleeve to slide onto any Away suitcase, a full wraparound zip opening for easy packing, a detachable padded shoulder strap, a padded 16" laptop pocket, and five interior pockets for serious organization.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ngf</s:tag>
+    <s:tag>oos-CA</s:tag>
+    <s:tag>oos-UK</s:tag>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/9884935979192</id>
+      <title></title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>100545BLKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/en-ca/products/10044387754168</id>
+    <published>2025-08-05T08:55:30-04:00</published>
+    <updated>2025-08-05T08:55:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/en-ca/products/featherlight-tote"/>
+    <title>Featherlight Tote</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away: Built for modern travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Featherlight_Tote_Black_01.jpg?v=1754398526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away: Built for modern travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>exclude-from-recommendations</s:tag>
+    <s:tag>seo.hidden</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/10044387754168</id>
+      <title>Glacial Pink</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>100788GPNKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/10044387754168</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>100788BLKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/10044387754168</id>
+      <title>Nordic Gray</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>100788NGRYV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/10044387754168</id>
+      <title>Olive Green</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>100788OLVGV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/en-ca/products/10044387655864</id>
+    <published>2025-08-05T08:55:29-04:00</published>
+    <updated>2025-08-05T08:55:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/en-ca/products/featherlight-cargo-backpack"/>
+    <title>Featherlight Cargo Backpack</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away: Built for modern travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Featherlight_Cargo_Black_01.jpg?v=1754397518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away: Built for modern travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            118.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>exclude-from-recommendations</s:tag>
+    <s:tag>seo.hidden</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/10044387655864</id>
+      <title>Glacial Pink</title>
+      <s:price currency="USD">118.00</s:price>
+      <s:sku>100787GPNKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/10044387655864</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">118.00</s:price>
+      <s:sku>100787BLKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/10044387655864</id>
+      <title>Nordic Gray</title>
+      <s:price currency="USD">118.00</s:price>
+      <s:sku>100787NGRYV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/10044387655864</id>
+      <title>Olive Green</title>
+      <s:price currency="USD">118.00</s:price>
+      <s:sku>100787OLVGV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/en-ca/products/10022804160696</id>
+    <published>2025-08-05T08:55:28-04:00</published>
+    <updated>2025-08-05T08:55:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/en-ca/products/featherlight-tote-glacial-pink"/>
+    <title>Featherlight Tote in Glacial Pink</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Featherlight_Tote_Pink_01.jpg?v=1754398526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8">The essential everyday bag that weighs next to nothing but carries just about everything. Our Featherlight Tote is designed to keep your life organized and your shoulder happy, from daily commutes to international flights. Made from a soft-yet-durable fabric, it features a padded sleeve that fits a 16" laptop and travel-ready, easy-access pockets with spots for your passport, earbuds, or lip balm. Personal item-sized, with a trolley sleeve that slips effortlessly onto your suitcase, it's the lightweight tote you’ll reach for every day—and every trip.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/10022804160696</id>
+      <title>Glacial Pink</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>100788GPNKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/en-ca/products/10022804062392</id>
+    <published>2025-08-05T08:55:28-04:00</published>
+    <updated>2025-08-05T08:55:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/en-ca/products/featherlight-tote-nordic-gray"/>
+    <title>Featherlight Tote in Nordic Gray</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Featherlight_Tote_Gray_01.jpg?v=1754398526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8">The essential everyday bag that weighs next to nothing but carries just about everything. Our Featherlight Tote is designed to keep your life organized and your shoulder happy, from daily commutes to international flights. Made from a soft-yet-durable fabric, it features a padded sleeve that fits a 16" laptop and travel-ready, easy-access pockets with spots for your passport, earbuds, or lip balm. Personal item-sized, with a trolley sleeve that slips effortlessly onto your suitcase, it's the lightweight tote you’ll reach for every day—and every trip.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/10022804062392</id>
+      <title>Nordic Gray</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>100788NGRYV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/en-ca/products/10022803964088</id>
+    <published>2025-08-05T08:55:27-04:00</published>
+    <updated>2025-08-05T08:55:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/en-ca/products/featherlight-tote-olive-green"/>
+    <title>Featherlight Tote in Olive Green</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Featherlight_Tote_Olive_01.jpg?v=1754398526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8">The essential everyday bag that weighs next to nothing but carries just about everything. Our Featherlight Tote is designed to keep your life organized and your shoulder happy, from daily commutes to international flights. Made from a soft-yet-durable fabric, it features a padded sleeve that fits a 16" laptop and travel-ready, easy-access pockets with spots for your passport, earbuds, or lip balm. Personal item-sized, with a trolley sleeve that slips effortlessly onto your suitcase, it's the lightweight tote you’ll reach for every day—and every trip.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/10022803964088</id>
+      <title>Olive Green</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>100788OLVGV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/en-ca/products/10022797508792</id>
+    <published>2025-08-05T08:55:26-04:00</published>
+    <updated>2025-08-05T08:55:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/en-ca/products/featherlight-tote-jet-black"/>
+    <title>Featherlight Tote in Jet Black</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Featherlight_Tote_Black_01.jpg?v=1754398526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8">The essential everyday bag that weighs next to nothing but carries just about everything. Our Featherlight Tote is designed to keep your life organized and your shoulder happy, from daily commutes to international flights. Made from a soft-yet-durable fabric, it features a padded sleeve that fits a 16" laptop and travel-ready, easy-access pockets with spots for your passport, earbuds, or lip balm. Personal item-sized, with a trolley sleeve that slips effortlessly onto your suitcase, it's the lightweight tote you’ll reach for every day—and every trip.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/10022797508792</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>100788BLKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/en-ca/products/10022796722360</id>
+    <published>2025-08-05T08:55:25-04:00</published>
+    <updated>2025-08-05T08:55:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/en-ca/products/featherlight-cargo-backpack-glacial-pink"/>
+    <title>Featherlight Cargo Backpack in Glacial Pink</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Featherlight_Cargo_Pink_01.jpg?v=1754397518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            118.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8">The essential everyday bag that weighs next to nothing but carries just about everything. Our Featherlight Tote is designed to keep your life organized and your shoulder happy, from daily commutes to international flights. Made from a soft-yet-durable fabric, it features a padded sleeve that fits a 16" laptop and travel-ready, easy-access pockets with spots for your passport, earbuds, or lip balm. Personal item-sized, with a trolley sleeve that slips effortlessly onto your suitcase, it's the lightweight tote you’ll reach for every day—and every trip.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/10022796722360</id>
+      <title>Glacial Pink</title>
+      <s:price currency="USD">118.00</s:price>
+      <s:sku>100787GPNKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/en-ca/products/10022796656824</id>
+    <published>2025-08-05T08:55:24-04:00</published>
+    <updated>2025-08-05T08:55:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/en-ca/products/featherlight-cargo-backpack-nordic-gray"/>
+    <title>Featherlight Cargo Backpack in Nordic Gray</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Featherlight_Cargo_Gray_01.jpg?v=1753903195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            118.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8">The essential everyday bag that weighs next to nothing but carries just about everything. Our Featherlight Tote is designed to keep your life organized and your shoulder happy, from daily commutes to international flights. Made from a soft-yet-durable fabric, it features a padded sleeve that fits a 16" laptop and travel-ready, easy-access pockets with spots for your passport, earbuds, or lip balm. Personal item-sized, with a trolley sleeve that slips effortlessly onto your suitcase, it's the lightweight tote you’ll reach for every day—and every trip.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/10022796656824</id>
+      <title>Nordic Gray</title>
+      <s:price currency="USD">118.00</s:price>
+      <s:sku>100787NGRYV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/en-ca/products/10022796558520</id>
+    <published>2025-08-05T08:55:24-04:00</published>
+    <updated>2025-08-05T08:55:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/en-ca/products/featherlight-cargo-backpack-olive-green"/>
+    <title>Featherlight Cargo Backpack in Olive Green</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Featherlight_Cargo_Olive_01.jpg?v=1754396980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            118.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8">The essential everyday bag that weighs next to nothing but carries just about everything. Our Featherlight Tote is designed to keep your life organized and your shoulder happy, from daily commutes to international flights. Made from a soft-yet-durable fabric, it features a padded sleeve that fits a 16" laptop and travel-ready, easy-access pockets with spots for your passport, earbuds, or lip balm. Personal item-sized, with a trolley sleeve that slips effortlessly onto your suitcase, it's the lightweight tote you’ll reach for every day—and every trip.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/10022796558520</id>
+      <title>Olive Green</title>
+      <s:price currency="USD">118.00</s:price>
+      <s:sku>100787OLVGV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/en-ca/products/10022796427448</id>
+    <published>2025-08-05T08:55:23-04:00</published>
+    <updated>2025-08-05T08:55:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/en-ca/products/featherlight-cargo-backpack-jet-black"/>
+    <title>Featherlight Cargo Backpack in Jet Black</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Featherlight_Cargo_Black_01.jpg?v=1754397518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            118.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8">The essential everyday bag that weighs next to nothing but carries just about everything. Our Featherlight Tote is designed to keep your life organized and your shoulder happy, from daily commutes to international flights. Made from a soft-yet-durable fabric, it features a padded sleeve that fits a 16" laptop and travel-ready, easy-access pockets with spots for your passport, earbuds, or lip balm. Personal item-sized, with a trolley sleeve that slips effortlessly onto your suitcase, it's the lightweight tote you’ll reach for every day—and every trip.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/10022796427448</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">118.00</s:price>
+      <s:sku>100787BLKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/en-ca/products/10022795116728</id>
+    <published>2025-08-05T08:55:22-04:00</published>
+    <updated>2025-08-05T08:55:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/en-ca/products/featherlight-weekender-glacial-pink"/>
+    <title>Featherlight Weekender in Glacial Pink</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Featherlight_Weekender_Pink_01.jpg?v=1754315313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            148.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Supremely lightweight, spacious, and stylish—this is the Weekender you've been waiting for. It's packed with smart organizational details, like a wide top opening that lets you see everything at a glance. Plus, an interior padded laptop sleeve secures devices up to 16", a zip-around bottom compartment keeps shoes or toiletries separate, and a secure travel ready pocket that fits your passport perfectly.<br><br>With a roomy 44L capacity, it packs like a Carry-On, fitting everything you need. Crafted in our water repellent, washable Featherlight fabric and tested for durability, this Weekender is comfortable to wear yet tough enough to keep up. Carry it by hand, over your shoulder, or as a crossbody—or slide its trolley sleeve onto your Away suitcase to keep things rolling. That's a big lift for a light bag.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/10022795116728</id>
+      <title>Glacial Pink</title>
+      <s:price currency="USD">148.00</s:price>
+      <s:sku>100745GPNKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/en-ca/products/10022794985656</id>
+    <published>2025-08-05T08:55:20-04:00</published>
+    <updated>2025-08-05T08:55:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/en-ca/products/featherlight-weekender-nordic-gray"/>
+    <title>Featherlight Weekender in Nordic Gray</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Featherlight_Weekender_Gray_01.jpg?v=1753903195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            148.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Supremely lightweight, spacious, and stylish—this is the Weekender you've been waiting for. It's packed with smart organizational details, like a wide top opening that lets you see everything at a glance. Plus, an interior padded laptop sleeve secures devices up to 16", a zip-around bottom compartment keeps shoes or toiletries separate, and a secure travel ready pocket that fits your passport perfectly.<br><br>With a roomy 44L capacity, it packs like a Carry-On, fitting everything you need. Crafted in our water repellent, washable Featherlight fabric and tested for durability, this Weekender is comfortable to wear yet tough enough to keep up. Carry it by hand, over your shoulder, or as a crossbody—or slide its trolley sleeve onto your Away suitcase to keep things rolling. That's a big lift for a light bag.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/10022794985656</id>
+      <title>Nordic Gray</title>
+      <s:price currency="USD">148.00</s:price>
+      <s:sku>100745NGRYV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/en-ca/products/10022794789048</id>
+    <published>2025-08-05T08:55:19-04:00</published>
+    <updated>2025-08-05T08:55:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/en-ca/products/featherlight-weekender-olive-green"/>
+    <title>Featherlight Weekender in Olive Green</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Featherlight_Weekender_Olive_01.jpg?v=1754315313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            148.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Supremely lightweight, spacious, and stylish—this is the Weekender you've been waiting for. It's packed with smart organizational details, like a wide top opening that lets you see everything at a glance. Plus, an interior padded laptop sleeve secures devices up to 16", a zip-around bottom compartment keeps shoes or toiletries separate, and a secure travel ready pocket that fits your passport perfectly.<br><br>With a roomy 44L capacity, it packs like a Carry-On, fitting everything you need. Crafted in our water repellent, washable Featherlight fabric and tested for durability, this Weekender is comfortable to wear yet tough enough to keep up. Carry it by hand, over your shoulder, or as a crossbody—or slide its trolley sleeve onto your Away suitcase to keep things rolling. That's a big lift for a light bag.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/en-ca/products/10022794789048</id>
+      <title>Olive Green</title>
+      <s:price currency="USD">148.00</s:price>
+      <s:sku>100745OLVGV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

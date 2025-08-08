@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.awaytravel.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.awaytravel.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.awaytravel.com/collections/garment-bags.atom"/>
+  <title>Away: Built for modern travel</title>
+  <updated>2025-04-15T09:12:32-04:00</updated>
+  <author>
+    <name>Away: Built for modern travel</name>
+  </author>
+  <entry>
+    <id>https://www.awaytravel.com/products/9953213546680</id>
+    <published>2025-04-15T09:12:32-04:00</published>
+    <updated>2025-04-15T09:12:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/garment-duffle-olive-green"/>
+    <title>Garment Duffle in Olive Green</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_Garment_Duffle_Olive_01.jpg?v=1744722696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            275.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Our Garment Duffle is the perfect 2-in-1: the wrinkle-free functionality of a garment bag meets the ease of a weekender.</span></p>
+<p dir="ltr"><span>Carry-on friendly, it features a spacious interior for easy packing, built-in garment sleeve, and expandable compartments for shoes up to size 15, plus a hook that zips out to hang over a door or in a closet. With thoughtful details like a padded laptop sleeve, a trolley sleeve for sliding onto luggage, and multiple interior and exterior pockets, the Garment Duffle proves that while we can't control your departure, we can guarantee a smooth landing. </span><span></span><span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oos-UK</s:tag>
+    <s:tag>oos-US</s:tag>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9953213546680</id>
+      <title>Olive Green</title>
+      <s:price currency="USD">275.00</s:price>
+      <s:sku>100756OLVGV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.awaytravel.com/products/9952879706296</id>
+    <published>2025-04-15T09:11:10-04:00</published>
+    <updated>2025-04-15T09:11:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.awaytravel.com/products/garment-bag-jet-black"/>
+    <title>Garment Bag in Jet Black</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Away Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0664/7418/0792/files/PDP_GarmentBag_BiFold_Black_01.jpg?v=1744715358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Away Travel<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8">The Garment Bag has the simplicity of a traditional hanging bag—upgraded with our signature design aesthetic (which means it looks as good as it functions). It’s your ticket to wrinkle-free travel and effortless style.</p>
+<p><meta charset="utf-8"><meta charset="utf-8">Designed for weddings, work trips, and everything in between, the Garment Bag keeps suits, dresses, and formalwear crisp and ready. It fits up to two suits or three full-length dresses or jumpsuits and inside, you'll find dedicated pockets for shoes, ties, bets, and accessories, plus a hook that zips out to hang over a door or in a closet. Whether you’re traveling for business or attending a destination event, this carry-on friendly garment bag makes it easy to stay polished.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.awaytravel.com/products/9952879706296</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku>100757BLKV1Standard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

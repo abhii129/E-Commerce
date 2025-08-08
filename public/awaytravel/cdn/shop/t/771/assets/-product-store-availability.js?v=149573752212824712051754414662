@@ -1,0 +1,82 @@
+import{S as h}from"./-store-geolocation.js";import{f as b}from"./chunk-firstFocusableElement-BqnhZP5g.js";import{x as p}from"./chunk-lit-element-B04JoW0t.js";import{t as f}from"./chunk-custom-element-BhZVzxrc.js";import{n}from"./chunk-property-Bc0RexEQ.js";import{r as d}from"./chunk-state-BZNsAlxZ.js";import{r as u}from"./chunk-query-async-BsMZa7Mb.js";import"./chunk-BaseElement-CopzcQ-j.js";import"./chunk-base-CShCMygk.js";var v=Object.defineProperty,y=Object.getOwnPropertyDescriptor,a=(t,s,i,r)=>{for(var o=r>1?void 0:r?y(s,i):s,l=t.length-1,c;l>=0;l--)(c=t[l])&&(o=(r?c(s,i,o):c(o))||o);return r&&o&&v(s,i,o),o};let e=class extends h{constructor(){super(),this.productId="",this.storesData="",this.stocksByLocationData="",this.modalIsOpen=!1,this.stores=[],this.stocksByLocation={storeLocations:[]},this.closestStore=null,this.isAvailable=null,this.sortedStores=[],this.triggerElement=null}connectedCallback(){super.connectedCallback(),this.id=`product-store-availability-${this.productId}`,this.parseAttributes(),this.initializeLocation()}async initializeLocation(){if(this.closestStore=await this.getClosestStoreInRadius(this.stores),!this.closestStore)return;const t=this.getStoreLocation(this.closestStore);if(!t||!("available"in t))return;this.isAvailable=!!t.available;const s=this.filterStoresByStockAndAddAvailability(this.stores);s.length&&(this.sortedStores=await this.getStoresByDistance(s))}getStoreLocation(t){return this.stocksByLocation.storeLocations.find(i=>i.id===`gid://shopify/Location/${t.location_id}`)}filterStoresByStockAndAddAvailability(t){return t.filter(s=>{const i=this.stocksByLocation.storeLocations.find(r=>r.id===`gid://shopify/Location/${s.location_id}`);return i?(s.isAvailable=i.available,!0):!1})}parseAttributes(){try{this.storesData&&(this.stores=JSON.parse(this.storesData)),this.stocksByLocationData&&(this.stocksByLocation=JSON.parse(this.stocksByLocationData))}catch(t){console.error("Error parsing attributes:",t)}}updateAftershipContainer(){if(this.closestStore&&this.isAvailable!==null){const t=this.parentNode;if(t){t.classList.add("aftership-wrapper-border");const s=t.querySelector(".js-aftership-container");s&&s.setAttribute("data-found-pos-store","true")}}}handleBackdropClick(t){t.target instanceof HTMLElement&&t.target.tagName==="DIALOG"&&this.closeModal()}async closeModal(){const t=await this.dialog;t&&t.open&&(t.close(),this.modalIsOpen=!1),this.triggerElement&&this.triggerElement.focus()}async openModal(){var s;const t=await this.dialog;t&&!t.open&&(this.triggerElement=document.activeElement,t.showModal(),this.modalIsOpen=!0,(s=b(t))==null||s.focus())}render(){return this.updateAftershipContainer(),!this.closestStore||this.isAvailable===null?p``:p`
+      <div
+        class="caption flex flex-row flex-wrap justify-between gap-xs py-[5px] pl-[6px]"
+      >
+        <div class="flex items-center gap-2xs">
+          <svg-icon
+            src=${this.isAvailable?"icon-available":"icon-unavailable"}
+            class="${this.isAvailable?" text-[#25B900] ":" text-[#EA1E42] "} block "
+            style="font-size: 16px; mr-[7px]"
+          ></svg-icon>
+          <span
+            >${this.isAvailable?"Available":"Unavailable"} in store at
+            <span class="font-bold">${this.closestStore.name}</span></span
+          >
+        </div>
+        <button class="pointer underline" @click=${this.openModal}>
+          Check all stores
+        </button>
+      </div>
+      <dialog
+        role="dialog"
+        aria-modal="true"
+        type="drawer"
+        aria-labelledby="${this.id}-dialogTitle"
+        @close=${this.closeModal}
+        .inert=${!this.modalIsOpen}
+        class="store-availability-modal__wrapper"
+        @click=${this.handleBackdropClick}
+      >
+        <div class="store-availability-modal">
+          <div
+            class="sticky top-0 z-50 flex items-center bg-p-lightest py-[8px] pr-[20px]"
+          >
+            <button
+              @click=${this.closeModal}
+              class="mr-2xs inline-flex h-[48px] w-[48px] items-center justify-center leading-none"
+            >
+              <slot name="close-icon">
+                <svg-icon
+                  src="icon-close-store-availability"
+                  style="font-size: 24px; padding-left: 16px;"
+                ></svg-icon>
+                <span class="sr-only">Close</span>
+              </slot>
+            </button>
+            <span class="body-small" id="${this.id}-dialogTitle"
+              >In store availability</span
+            >
+          </div>
+          <div>
+            ${this.sortedStores.map(t=>{const[s,i]=t.coords.map(Number),r=`https://www.google.com/maps/dir/?api=1&destination=${i},${s}`,o=(t.address??[]).concat(t.address_2??[]).join(", "),l=t.hours?t.hours.join(" | "):"";return p`
+                <div
+                  class="flex flex-col border-b border-[#E2E1E1] p-4 px-[25px] py-[31px] last:border-b-0"
+                >
+                  <div
+                    class="caption flex items-center gap-2 pb-[13px] pl-[6px]"
+                  >
+                    <svg-icon
+                      src=${t.isAvailable?"icon-available":"icon-unavailable"}
+                      class="${t.isAvailable?"text-[#25B900]":"text-[#EA1E42]"}"
+                      style="font-size: 16px"
+                    ></svg-icon>
+                    <span>
+                      ${t.isAvailable?"Available":"Unavailable"} at
+                      <b>${t.name}</b>
+                    </span>
+                  </div>
+                  <a
+                    href="https://www.awaytravel.com/cdn/shop/t/771/assets/${r}"
+                    target="_blank"
+                    rel="noopener"
+                    class="text-black caption pb-[8px] underline"
+                  >
+                    ${o}
+                  </a>
+                  <div class="caption">${l}</div>
+                </div>
+              `})}
+          </div>
+        </div>
+      </dialog>
+    `}};a([n({type:String,attribute:"product-id"})],e.prototype,"productId",2);a([n({type:String,attribute:"data-stores"})],e.prototype,"storesData",2);a([n({type:String,attribute:"data-stocks-by-location"})],e.prototype,"stocksByLocationData",2);a([u("dialog")],e.prototype,"dialog",2);a([n({type:Boolean,reflect:!0})],e.prototype,"modalIsOpen",2);a([d()],e.prototype,"closestStore",2);a([d()],e.prototype,"isAvailable",2);a([d()],e.prototype,"sortedStores",2);e=a([f("product-store-availability")],e);
