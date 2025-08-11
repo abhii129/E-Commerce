@@ -9,7 +9,7 @@
             
             <div class="flex items-center gap-4">
                 <p class="welcome-message">Welcome, {{ Auth::user()->name }}!</p>
-                <a href="{{ route('products.create') }}" class="add-product-btn">Add Product</a>
+                <a href="{{ route('admin.products.create') }}" class="add-product-btn">Add Product</a>
             </div>
         </div>
         
@@ -38,8 +38,8 @@
                             <img src="{{ asset('storage/' . $product->image) }}" alt="Product Image" class="product-image">
                         </td>
                         <td class="flex items-center">
-                            <a href="{{ route('products.edit', $product->id) }}" class="action-link edit-link">Edit</a>
-                            <form action="{{ route('products.destroy', $product->id) }}" method="POST" class="inline">
+                            <a href="{{ route('admin.products.edit', $product->id) }}" class="action-link edit-link">Edit</a>
+                            <form action="{{ route('admin.products.destroy', $product->id) }}" method="POST" class="inline">
                                 @csrf
                                 @method('DELETE')
                                 <button type="submit" class="delete-btn">Delete</button>

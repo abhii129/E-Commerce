@@ -1,6 +1,0 @@
-var a=Object.defineProperty;var e=(i,t,r)=>t in i?a(i,t,{enumerable:!0,configurable:!0,writable:!0,value:r}):i[t]=r;var o=(i,t,r)=>(e(i,typeof t!="symbol"?t+"":t,r),r);import{a as s}from"./chunk-BaseElement-CopzcQ-j.js";import{W as m}from"./chunk-WithShopifyCart-Bw08p0rZ.js";import{E as c,x as n}from"./chunk-lit-element-B04JoW0t.js";import"./chunk-WithApiClient-mq4vOvoR.js";import"./chunk-index-CKJCYK2x.js";import"./chunk-cart-sections-DQ33OuN-.js";import"./chunk-create-context-89xeped_.js";import"./chunk-tracking-DO2MhGcG.js";import"./chunk-consume-B27YesmA.js";import"./chunk-context-request-event-GdmzvDV-.js";import"./chunk-property-Bc0RexEQ.js";import"./chunk-state-BZNsAlxZ.js";class p extends m(s){constructor(){super(...arguments);o(this,"translation",{})}static get properties(){return{translation:{type:Object}}}get translatedCartCount(){var r;return((r=this.translation)==null?void 0:r.cart_count)||{one:"###count### item in your cart",other:"###count### items in your cart"}}render(){return n`
-      ${this.cart.item_count>99?c:n` <span aria-hidden="true">${this.cart.item_count}</span> `}
-      <span class="sr-only"
-        >${this.translatedCartCount[this.cart.item_count>1?"other":"one"].replace("###count###",String(this.cart.item_count))}</span
-      >
-    `}}window.customElements.define("cart-total",p);

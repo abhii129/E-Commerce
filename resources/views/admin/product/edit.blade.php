@@ -3,7 +3,7 @@
 @section('content')
     <h2 class="text-xl font-semibold mb-4">Edit Product</h2>
 
-    <form action="{{ route('products.update', $product->id) }}" method="POST" enctype="multipart/form-data" class="space-y-4">
+    <form action="{{ route('admin.products.update', $product->id) }}" method="POST" enctype="multipart/form-data" class="space-y-4">
         @csrf
         @method('PUT')
 

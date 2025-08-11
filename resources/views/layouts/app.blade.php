@@ -26,7 +26,7 @@
     <x-navbar />
 
     <main class="container mx-auto px-4 py-8">
-        <br><br><br><br>
+        <br><br><br>
         @yield('content')
     </main>
 

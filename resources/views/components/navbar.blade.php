@@ -21,74 +21,91 @@
             }
         }
     </script>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
-        :root {
-            --navbar-height: 60px;
-        }
-        body {
-            font-family: 'Inter', sans-serif;
-            margin: 0;
-            padding-top: var(--navbar-height); /* Always leave room for fixed navbar */
-            background-color: #f9fafb;
-        }
-        .navbar {
-            position: fixed;
-            top: 0; left: 0; right: 0;
-            background: #fff;
-            height: var(--navbar-height);
-            z-index: 1000;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.08);
-            display: flex;
-            align-items: center;
-        }
-        .navbar.scrolled {
-            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-        }
-        .nav-link {
-            position: relative;
-        }
-        .nav-link:after {
-            content: '';
-            position: absolute;
-            width: 0;
-            height: 2px;
-            bottom: -2px;
-            left: 0;
-            background-color: #2563eb;
-            transition: width 0.3s ease;
-        }
-        .nav-link:hover:after {
-            width: 100%;
-        }
-        .mobile-menu {
-            max-height: 0;
-            overflow: hidden;
-            transition: max-height 0.3s ease-out;
-        }
-        .mobile-menu.open {
-            max-height: 500px;
-        }
-        .hamburger span {
-            transition: all 0.3s ease;
-        }
-        .hamburger.active span:nth-child(1) {
-            transform: rotate(45deg) translate(5px, 5px);
-        }
-        .hamburger.active span:nth-child(2) {
-            opacity: 0;
-        }
-        .hamburger.active span:nth-child(3) {
-            transform: rotate(-45deg) translate(5px, -5px);
-        }
-        /* Responsive spacing for flex wrap if needed */
-        @media (max-width: 1024px) {
-            .navbar .container { gap: 1rem; }
-        }
-        @media (max-width: 768px) {
-            .navbar .container { flex-wrap: wrap; }
-        }
-    </style>
+ <style>
+    :root {
+        --navbar-height: 70px;
+    }
+    body {
+        font-family: 'Inter', sans-serif;
+        margin: 0;
+        padding-top: var(--navbar-height);
+        background-color: #f9fafb;
+    }
+    /* Rekorder Style Navbar */
+    .navbar {
+        position: fixed;
+        top: 0; left: 0; right: 0;
+        height: var(--navbar-height);
+        z-index: 1000;
+        background: transparent;
+        transition: background-color 0.4s ease, backdrop-filter 0.4s ease, box-shadow 0.4s ease;
+        display: flex;
+        align-items: center;
+    }
+    .navbar.scrolled {
+        background: rgba(17, 17, 17, 0.85);
+        backdrop-filter: blur(6px);
+        box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    }
+    .navbar .nav-link {
+        position: relative;
+        font-weight: 500;
+        color: white;
+        transition: color 0.3s ease;
+    }
+    .navbar.scrolled .nav-link {
+        color: white;
+    }
+    .navbar .nav-link:after {
+        content: '';
+        position: absolute;
+        width: 0;
+        height: 2px;
+        bottom: -2px;
+        left: 0;
+        background-color: white;
+        transition: width 0.3s ease;
+    }
+    .navbar .nav-link:hover:after {
+        width: 100%;
+    }
+    .navbar .brand {
+        font-size: 1.4rem;
+        font-weight: bold;
+        color: white;
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+    /* Mobile menu inherits scrolled bg */
+    .mobile-menu {
+        background: rgba(17, 17, 17, 0.95);
+        backdrop-filter: blur(6px);
+        color: white;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.3s ease-out;
+    }
+    .mobile-menu.open {
+        max-height: 500px;
+    }
+    .mobile-menu a {
+        color: white;
+    }
+    /* Search bar in transparent mode */
+    .navbar input[type="search"] {
+        background: rgba(255, 255, 255, 0.1);
+        border: none;
+        color: white;
+        transition: background 0.3s ease;
+    }
+    .navbar input[type="search"]::placeholder {
+        color: rgba(255, 255, 255, 0.7);
+    }
+    .navbar.scrolled input[type="search"] {
+        background: rgba(255, 255, 255, 0.15);
+    }
+</style>
+
 </head>
 <body>
     <!-- Navbar -->

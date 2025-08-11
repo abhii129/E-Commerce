@@ -5,19 +5,19 @@ use Illuminate\Database\Eloquent\Model;
 
 class Product extends Model
 {
-        protected $fillable = [
-            'name', 'description', 'category_id', 'subcategory_id', 'image',
-            'brand', 'fit_type', 'gender', 'availability', 'price'  // Add 'price' here
-        ];
-    
-        // ...
-    
-    
+    protected $fillable = [
+        'name',
+        'description',
+        'category_id',
+        'subcategory_id',
+        'image',
+        'brand',
+        'fit_type',
+        'gender',
+        'availability',
+        'price',
+    ];
 
-    public function variations()
-    {
-        return $this->hasMany(ProductVariation::class);
-    }
     public function category()
     {
         return $this->belongsTo(Category::class);

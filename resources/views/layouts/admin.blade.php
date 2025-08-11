@@ -31,11 +31,11 @@
         @endif
     </div>
 </div>
+<a href="{{ route('admin.categories.index') }}" class="hover:text-gray-300">Categories</a>
+<a href="{{ route('admin.subcategories.index') }}" class="hover:text-gray-300">Subcategories</a>
+<a href="{{ route('admin.products.index') }}" class="hover:text-gray-300">Products</a>
+<a href="{{ route('customer.products.index') }}" class="hover:text-gray-300">View Products</a>
 
-                    <a href="{{ route('categories.index') }}" class="hover:text-gray-300">Categories</a>
-                    <a href="{{ route('subcategories.index') }}" class="hover:text-gray-300">Subcategories</a>
-                    <a href="{{ route('products.index') }}" class="hover:text-gray-300">Products</a>
-                    <a href="{{ route('customer.products.index') }}" class="hover:text-gray-300">View Products</a>
 
                     <form action="{{ route('logout') }}" method="POST" style="display: inline;">
     @csrf

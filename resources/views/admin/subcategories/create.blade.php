@@ -9,7 +9,7 @@
         </div>
     @endif
 
-    <form action="{{ route('subcategories.store') }}" method="POST" class="space-y-4">
+    <form action="{{ route('admin.subcategories.store') }}" method="POST" class="space-y-4">
         @csrf
 
         <!-- Category Selection -->

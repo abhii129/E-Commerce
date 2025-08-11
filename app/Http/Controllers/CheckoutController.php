@@ -18,59 +18,69 @@ class CheckoutController extends Controller
     }
     
 
+    // Show review page
+    public function index()
+    {
+        $user = auth()->user();
+        $cartItems = $user->cartItems()->with('product')->get();
+
+        return view('cart.checkout-index', compact('cartItems'));
+    }
+
+    // Place order
     public function process(Request $request)
     {
         $user = auth()->user();
         $cartItems = $user->cartItems()->with('product')->get();
+
         if ($cartItems->isEmpty()) {
             return redirect()->route('cart.show')->with('error', 'Your cart is empty.');
         }
 
         DB::beginTransaction();
         try {
-            // Calculate totals
-            $total = 0;
-            foreach ($cartItems as $item) {
-                $total += $item->price * $item->quantity;
-            }
+            // calculate total
+            $total = $cartItems->sum(fn($item) => $item->price * $item->quantity);
 
-            // Create the order
+            // create order
             $order = Order::create([
                 'user_id' => $user->id,
-                'total' => $total,
-                'status' => 'pending',
+                'total'   => $total,
+                'status'  => 'pending',
             ]);
 
-            // Create order items
+            // create order items
             foreach ($cartItems as $item) {
                 OrderItem::create([
-                    'order_id' => $order->id,
-                    'product_id' => $item->product_id,
+                    'order_id'     => $order->id,
+                    'product_id'   => $item->product_id,
+                    // Ensure this column exists in your migration & $fillable:
                     'product_name' => $item->product->name,
-                    'price' => $item->price,
-                    'quantity' => $item->quantity,
+                    'price'        => $item->price,
+                    'quantity'     => $item->quantity,
                 ]);
             }
 
-            // Clear the user's cart
+            // clear cart
             $user->cartItems()->delete();
 
             DB::commit();
-            return redirect()->route('checkout.success', $order->id);
-        } catch (\Exception $e) {
+
+            // redirect to success
+            return redirect()->route('checkout.success', ['order' => $order->id]);
+
+        } catch (\Throwable $e) {
             DB::rollBack();
-            return back()->with('error', 'Checkout failed. Please try again.');
+            Log::error('Checkout Error: '.$e->getMessage(), ['trace' => $e->getTraceAsString()]);
+            // Show error on the same page so you see what's wrong
+            return redirect()->route('checkout.index')->with('error', 'Checkout failed: '.$e->getMessage());
         }
     }
 
-        // In CheckoutController
-        public function index() {
-            $cartItems = auth()->user()->cartItems()->with('product')->get();
-            return view('cart.checkout-index', compact('cartItems'));
-        }
-        public function success($orderId) {
-            $order = Order::with('orderItems')->findOrFail($orderId);
-            return view('cart.checkout-success', compact('order'));
-        }
-
+    // Success page - implicit model binding
+    public function success(Order $order)
+    {
+        $order->load('orderItems');
+        return view('cart.checkout-success', compact('order'));
+    }
 }

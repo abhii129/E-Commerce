@@ -1,6 +1,0 @@
-import{B as m}from"./chunk-BaseElement-CopzcQ-j.js";import{c as f}from"./chunk-aria-live-region-context-DAmBJh4s.js";import{c as h}from"./chunk-consume-B27YesmA.js";import{E as n,x as v}from"./chunk-lit-element-B04JoW0t.js";import{t as g}from"./chunk-custom-element-BhZVzxrc.js";import"./chunk-create-context-89xeped_.js";import"./chunk-context-request-event-GdmzvDV-.js";var c=Object.defineProperty,u=Object.getOwnPropertyDescriptor,l=(i,r,o,t)=>{for(var e=t>1?void 0:t?u(r,o):r,s=i.length-1,a;s>=0;s--)(a=i[s])&&(e=(t?a(r,o,e):a(e))||e);return t&&e&&c(r,o,e),e};let p=class extends m{get politeness(){var i;return((i=this.ariaLiveRegion)==null?void 0:i.politeness)||"assertive"}render(){return this.ariaLiveRegion?v`
-      <div class="sr-only" aria-live=${this.politeness} role="status">
-        ${this.ariaLiveRegion.title?v`<h2>${this.ariaLiveRegion.title}</h2>`:n}
-        ${this.ariaLiveRegion.message??n}
-      </div>
-    `:v`${n}`}};l([h({context:f,subscribe:!0})],p.prototype,"ariaLiveRegion",2);p=l([g("aria-live-region")],p);

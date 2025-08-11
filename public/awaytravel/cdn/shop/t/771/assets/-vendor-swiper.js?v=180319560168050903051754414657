@@ -1,1 +1,0 @@
-import{_ as r}from"./chunk-preload-helper-BqjOJQfC.js";requestAnimationFrame(()=>{r(()=>import("./chunk-swiper-element-bundle-CsXZ89LG.js"),[]).then(({register:e})=>{requestAnimationFrame(()=>{e()})})});

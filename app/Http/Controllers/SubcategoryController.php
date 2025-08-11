@@ -35,7 +35,7 @@ class SubcategoryController extends Controller
             'category_id' => $request->category_id,
         ]);
 
-        return redirect()->route('subcategories.index')->with('success', 'Subcategory created successfully');
+        return redirect()->route('admin.subcategories.index')->with('success', 'Subcategory created successfully');
     }
 
     // Show the form for editing the specified subcategory
@@ -58,7 +58,7 @@ class SubcategoryController extends Controller
             'category_id' => $request->category_id,
         ]);
 
-        return redirect()->route('subcategories.index')->with('success', 'Subcategory updated successfully');
+        return redirect()->route('admin.subcategories.index')->with('success', 'Subcategory updated successfully');
     }
 
     // Delete the specified subcategory
@@ -66,6 +66,6 @@ class SubcategoryController extends Controller
     {
         $subcategory->delete();
 
-        return redirect()->route('subcategories.index')->with('success', 'Subcategory deleted successfully');
+        return redirect()->route('admin.subcategories.index')->with('success', 'Subcategory deleted successfully');
     }
 }
