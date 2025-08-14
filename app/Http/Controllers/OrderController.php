@@ -5,6 +5,8 @@ namespace App\Http\Controllers;
 use App\Models\Order; // Add this line
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
+
 
 class OrderController extends Controller
 {
@@ -14,19 +16,28 @@ class OrderController extends Controller
     return view('orders.adminindex', compact('orders'));
 }
 
-public function updateStatus(Request $request, Order $order)
+public function updateStatus(Order $order, Request $request)
 {
-    $request->validate([
-        'status' => 'required|in:pending,completed,processing,cancelled',
-    ]);
+    $new = $request->validate([
+        'status' => 'required|in:pending,processing,completed,cancelled,refunded',
+    ])['status'];
 
-    // Optionally check if user is admin here or via middleware
+    DB::transaction(function () use ($order, $new) {
+        // When moving into a restocking state
+        $restockStatuses = ['cancelled', 'refunded'];
+        $wasRestocked = in_array($order->status, $restockStatuses);
+        $willBeRestocked = in_array($new, $restockStatuses);
 
-    $order->status = $request->input('status');
-    $order->save();
+        if (!$wasRestocked && $willBeRestocked) {
+            foreach ($order->items as $item) {
+                Product::whereKey($item->product_id)->lockForUpdate()->increment('availability', $item->quantity);
+            }
+        }
 
-    return redirect()->back()->with('success', 'Order status updated successfully.');
+        $order->update(['status' => $new]);
+    });
+
+    return back()->with('success', 'Order status updated.');
 }
-
 
 }

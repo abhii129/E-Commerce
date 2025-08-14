@@ -13,6 +13,8 @@ use App\Http\Controllers\CheckoutController;
 use App\Http\Controllers\AddressController;
 use App\Http\Controllers\UserController;
 use App\Http\Controllers\OrderController;
+use App\Http\Controllers\ProductAttributeController;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -100,6 +102,10 @@ Route::prefix('admin')->name('admin.')->middleware(['auth', 'is_admin'])->group(
     // Orders (admin)
     Route::get('/orders', [OrderController::class, 'adminIndex'])->name('orders.index');
     Route::put('/orders/{order}/status', [OrderController::class, 'updateStatus'])->name('orders.updateStatus');
+
+    Route::patch('/products/{product}/availability', [ProductController::class, 'updateAvailability'])
+    ->name('products.updateAvailability');
+
 });
 
 /*
@@ -149,4 +155,18 @@ Route::prefix('admin')->name('admin.')->middleware(['auth', 'is_admin'])->group(
     // ...
     Route::get('/categories', [CategoryController::class, 'index'])->name('categories.index');
     // ...
+});
+
+// routes/web.php
+Route::post('/cart/add/{product}', [CartController::class, 'add'])->name('cart.add');
+Route::post('/cart/update/{product}', [CartController::class, 'updateQuantity'])->name('cart.updateQuantity');
+
+
+
+Route::prefix('admin')->name('admin.')->middleware(['auth', 'is_admin'])->group(function () {
+    // Route for managing product attributes
+    Route::resource('product-attributes', ProductAttributeController::class);
+
+    // Route for fetching subcategories dynamically
+    Route::get('/subcategories/getByCategory/{categoryId}', [ProductAttributeController::class, 'getSubcategoriesByCategory']);
 });

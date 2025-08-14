@@ -28,6 +28,8 @@
                 </svg>
             </button>
             <div x-show="open" x-collapse class="pl-8 mt-1 space-y-1">
+                <!-- Add this to the Catalog section -->
+    <a href="{{ route('admin.product-attributes.index') }}" class="block px-4 py-2 text-gray-600 rounded-lg hover:bg-blue-50 hover:text-blue-600 transition-colors">Product Attributes</a>
     <a href="{{ route('admin.categories.index') }}" class="block px-4 py-2 text-gray-600 rounded-lg hover:bg-blue-50 hover:text-blue-600 transition-colors">Categories</a>
     <a href="{{ route('admin.subcategories.index') }}" class="block px-4 py-2 text-gray-600 rounded-lg hover:bg-blue-50 hover:text-blue-600 transition-colors">Subcategories</a>
     <a href="{{ route('admin.products.index') }}" class="block px-4 py-2 text-gray-600 rounded-lg hover:bg-blue-50 hover:text-blue-600 transition-colors">Products</a>

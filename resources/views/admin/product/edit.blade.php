@@ -57,6 +57,96 @@
             <textarea name="description" id="description" class="form-control" rows="4">{{ old('description', $product->description) }}</textarea>
         </div>
 
+        <!-- Product Attributes -->
+        @if($attributes->count())
+  <div class="mb-4">
+    <h3 class="text-lg font-semibold mb-3">Product Attributes</h3>
+
+    @foreach($attributes as $attribute)
+      @php
+        // value already saved for this product?
+        $savedValue = old("attributes.$attribute->id.value", $values[$attribute->id] ?? '');
+        $enabled    = old("attributes.$attribute->id.enabled", isset($values[$attribute->id]) ? '1' : null);
+        $isOn       = (string)$enabled === '1';
+        $options    = $attribute->type === 'select'
+                      ? (json_decode($attribute->options, true) ?? [])
+                      : [];
+      @endphp
+
+      <div class="form-group mb-3">
+        <div class="form-check mb-2">
+          <input
+            type="checkbox"
+            class="form-check-input attr-toggle"
+            id="attr_chk_{{ $attribute->id }}"
+            name="attributes[{{ $attribute->id }}][enabled]"
+            value="1"
+            {{ $isOn ? 'checked' : '' }}
+            data-target="#attr_wrap_{{ $attribute->id }}"
+            data-input="#attr_input_{{ $attribute->id }}"
+          >
+          <label class="form-check-label" for="attr_chk_{{ $attribute->id }}">
+            Use {{ $attribute->name }}
+          </label>
+        </div>
+
+        <div id="attr_wrap_{{ $attribute->id }}" class="{{ $isOn ? '' : 'd-none' }}">
+          @if($attribute->type === 'text')
+            <input
+              type="text"
+              class="form-control"
+              id="attr_input_{{ $attribute->id }}"
+              name="attributes[{{ $attribute->id }}][value]"
+              value="{{ $savedValue }}"
+              {{ $isOn ? '' : 'disabled' }}
+              placeholder="Enter {{ strtolower($attribute->name) }}"
+            >
+          @elseif($attribute->type === 'select')
+            <select
+              class="form-control"
+              id="attr_input_{{ $attribute->id }}"
+              name="attributes[{{ $attribute->id }}][value]"
+              {{ $isOn ? '' : 'disabled' }}
+            >
+              <option value="">-- Select {{ $attribute->name }} --</option>
+              @foreach($options as $opt)
+                <option value="{{ $opt }}" {{ $savedValue == $opt ? 'selected' : '' }}>
+                  {{ $opt }}
+                </option>
+              @endforeach
+            </select>
+          @endif
+        </div>
+      </div>
+    @endforeach
+  </div>
+@endif
+
+{{-- keep this JS once in the page --}}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.attr-toggle').forEach(function(chk) {
+    const onChange = function() {
+      const target = document.querySelector(this.dataset.target);
+      const input  = document.querySelector(this.dataset.input);
+      if (this.checked) {
+        target && target.classList.remove('d-none');
+        input && input.removeAttribute('disabled');
+      } else {
+        target && target.classList.add('d-none');
+        input && input.setAttribute('disabled', 'disabled');
+        if (input && input.tagName === 'SELECT') input.selectedIndex = 0;
+        if (input && input.tagName === 'INPUT')  input.value = '';
+      }
+    };
+    chk.addEventListener('change', onChange);
+  });
+});
+</script>
+<style>.d-none{display:none!important}</style>
+
+
+
         <!-- Optional: Image display (not editable here) -->
         <div>
             <label class="form-label">Current Image:</label><br>

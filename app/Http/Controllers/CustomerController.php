@@ -53,15 +53,15 @@ class CustomerController extends Controller
 
 
     public function show($id)
-{
-    // Find the product by ID with related category and subcategory
-    $product = Product::with('category', 'subcategory')->findOrFail($id);
-
-    // You can get additional data if needed, e.g., related products, breadcrumbs etc.
-
-    // Return a frontend view showing product details
-    return view('admin.customer.products.show', [ 'product' => $product ]);
-}
-
+    {
+        $product = Product::with([
+            'category',
+            'subcategory',
+            'attributeValues.attribute' // 👈 load dynamic attributes with names
+        ])->findOrFail($id);
+    
+        return view('admin.customer.products.show', ['product' => $product]);
+    }
+    
    
 }

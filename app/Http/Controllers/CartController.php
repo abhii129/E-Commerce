@@ -1,60 +1,75 @@
 <?php
 namespace App\Http\Controllers;
+
 use Illuminate\Http\Request;
 use App\Models\CartItem;
 use App\Models\Product;
 
 class CartController extends Controller
 {
-    public function add(Request $request, $productId)
+    // Add to cart (defaults to +1 unless quantity passed)
+    public function add(Request $request, Product $product)
     {
-        $user = auth()->user();
+        $user = $request->user();
+        $qtyToAdd = max(1, (int) $request->input('quantity', 1));
 
-        $cartItem = CartItem::firstOrCreate(
-            ['user_id' => $user->id, 'product_id' => $productId],
-            ['price' => Product::findOrFail($productId)->price]
+        // current qty in cart
+        $existingQty = (int) $user->cartItems()
+            ->where('product_id', $product->id)
+            ->value('quantity');
+
+        // ✅ Stock check
+        if ($existingQty + $qtyToAdd > (int) $product->availability) {
+            return back()->withErrors([
+                'stock' => "Only {$product->availability} in stock for {$product->name}."
+            ])->withInput();
+        }
+
+        // snapshot price + upsert
+        $user->cartItems()->updateOrCreate(
+            ['product_id' => $product->id],
+            [
+                'price'    => $product->price,
+                'quantity' => $existingQty + $qtyToAdd,
+            ]
         );
-        $cartItem->quantity += 1;
-        $cartItem->save();
 
         return back()->with('success', 'Product added to cart!');
     }
 
-    public function remove(Request $request, $productId)
+    // Update line quantity to an exact number
+    public function updateQuantity(Request $request, Product $product)
     {
-        $user = auth()->user();
-        CartItem::where('user_id', $user->id)->where('product_id', $productId)->delete();
+        $user = $request->user();
+        $newQty = max(1, (int) $request->input('quantity', 1));
+
+        if ($newQty > (int) $product->availability) {
+            return back()->withErrors([
+                'stock' => "Only {$product->availability} in stock for {$product->name}."
+            ])->withInput();
+        }
+
+        $item = $user->cartItems()->where('product_id', $product->id)->first();
+        if (!$item) {
+            return back()->withErrors(['cart' => 'Item not found in your cart.']);
+        }
+
+        $item->update(['quantity' => $newQty]);
+
+        return back()->with('success', 'Quantity updated.');
+    }
+
+    // Remove line from cart
+    public function remove(Request $request, Product $product)
+    {
+        $request->user()->cartItems()->where('product_id', $product->id)->delete();
         return back()->with('success', 'Product removed from cart!');
     }
 
+    // View cart
     public function view()
     {
         $cartItems = auth()->user()->cartItems()->with('product')->get();
         return view('cart.show', compact('cartItems'));
     }
-
-    public function updateQuantity(Request $request, $productId)
-{
-    $request->validate([
-        'quantity' => 'required|integer|min:1',
-    ]);
-
-    $cartItem = \App\Models\CartItem::where('user_id', auth()->id())
-        ->where('product_id', $productId)
-        ->first();
-
-    if ($cartItem) {
-        $cartItem->quantity = $request->quantity;
-        $cartItem->save();
-    }
-
-    return back()->with('success', 'Cart updated.');
-    }
-    
-    public function show()
-    {
-        $cartItems = auth()->user()->cartItems()->with('product')->get();
-        return view('cart.show', compact('cartItems'));
-    }
-
 }
